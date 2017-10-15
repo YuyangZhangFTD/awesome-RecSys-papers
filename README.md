@@ -13,21 +13,29 @@ By the way, the RecSys is one of the most important conference in recommendation
 
 [RecSys](https://recsys.acm.org)
 
+## Hey !
+I graduated three months ago, and this list has not been updated for three months.
+And now I have become a machine learning engineer in Suning, major in recommendation system and other machine learning fileds.
+So I decide to continue to update this list in the future. But I will change the format for convenience.
+
+I will record the papers here which I have read, and the I will update the list once a week.
+Some paper can't be downloaded if you don't have access for some digital library, like acm digital library and so on.
+So if you want to read this paper, email me~ [ZhangYuyang4d@163.com](ZhangYuyang4d@163.com)
+
+By the way, I won't classify papers into several categories, and just list their names and download links here.
+
+Gook luck to every rec-sys learner.
+
+
+
+---
+
 ## Lastest Paper
 I will continue to update this section for a while till I finish my dissertation.
 Maybe some papers of this section can't be downloaded,
 please email me and I will send the pdf to you.
 
 Email again:    [ZhangYuyang4d@163.com](ZhangYuyang4d@163.com)
-
-### ICLR 2017
-- Collaborative Deep Embedding via Dual Networks (2017), Yilei Xiong, Dahua Lin, et al.
-- Exponential Machines (2017), Alexander Novikov, Mikhail Trofimov, Ivan Oseledets.
-- Recurrent Recommender Networks (2017), Chao-Yuan Wu.
-
-### AAAI 2017
-- A Hybrid Collaborative Filtering Model  with Deep Structure for Recommender Systems (2017),Xin Dong, Lei Yu, Zhonghuo Wu, Yuxia Sun, Lingfeng Yuan, Fangxi Zhang.
-
 
 
 ## Recent Papers 
@@ -62,6 +70,14 @@ which is the main direction of my work in the future.
 
 - Wide & Deep Learning for Recommender Systems (2016),HT Cheng, L Koc, J Harmsen, T Shaked.
 [[pdf]](https://arxiv.org/pdf/1606.07792)
+
+- A Hybrid Collaborative Filtering Model  with Deep Structure for Recommender Systems (2017),Xin Dong, Lei Yu, Zhonghuo Wu, Yuxia Sun, Lingfeng Yuan, Fangxi Zhang.[[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14676/13916)
+
+- Collaborative Deep Embedding via Dual Networks (2017), Yilei Xiong, Dahua Lin, et al.[[pdf]](https://openreview.net/pdf?id=r1w7Jdqxl)
+
+- Recurrent Recommender Networks (2017), Chao-Yuan Wu.[[pdf]](http://delivery.acm.org/10.1145/3020000/3018689/p495-wu.pdf?ip=221.226.125.130&id=3018689&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=995126498&CFTOKEN=96329132&__acm__=1508034746_8da751768f4ee19af912968914bbbaa6)
+
+
 
 ### Matrix Factorization
 - SVD-based collaborative filtering with privacy (2005), Polat H, Du W. 
@@ -184,5 +200,3 @@ which is the main direction of my work in the future.
 
 - A hybrid approach to item recommendation in folksonomies (2009), Wetzker R, Umbrath W, Said A.
 [[pdf]](http://www.dai-labor.de/fileadmin/Files/Publikationen/Buchdatei/wetzker_folksonomyrecommendation_esair2009_final.pdf)
-
-
