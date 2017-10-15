@@ -15,7 +15,7 @@ By the way, the RecSys is one of the most important conference in recommendation
 
 ## Hey !
 I graduated three months ago, and this list has not been updated for three months.
-And now I have become a machine learning engineer in Suning, major in recommendation system and other machine learning fileds.
+And now I have become a machine learning engineer in Suning, majoring in recommendation system and other machine learning fileds.
 So I decide to continue to update this list in the future. But I will change the format for convenience.
 
 I will record the papers here which I have read, and the I will update the list once a week.
@@ -26,7 +26,15 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+## 2017-10-9 ~ 2017-10-15
 
+- Qu Y, Cai H, Ren K, et al. Product-Based Neural Networks for User Response Prediction[C]// IEEE, International Conference on Data Mining. IEEE, 2017:1149-1154.[[pdf]](https://arxiv.org/pdf/1611.00144.pdf)
+
+- Zhang W, Du T, Wang J, et al. Deep Learning over Multi-field Categorical Data[C]. european conference on information retrieval, 2016: 45-57.
+
+- Guo H, Tang R, Ye Y, et al. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction[C]// Twenty-Sixth International Joint Conference on Artificial Intelligence. 2017:1725-1731.[[pdf]](https://arxiv.org/pdf/1703.04247.pdf)
+
+- Xiao J, Ye H, He X, et al. Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks[J]. 2017.[[pdf]](https://ru.arxiv.org/pdf/1708.04617.pdf)
 
 ---
 
