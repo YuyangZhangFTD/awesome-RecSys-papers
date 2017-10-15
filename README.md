@@ -35,6 +35,9 @@ Gook luck to every rec-sys learner.
 - Chen J, Sun B, Li H, et al. Deep ctr prediction in display 
   advertising[C]//Proceedings of the 2016 ACM on Multimedia Conference. 
   ACM, 2016: 811-820.[[pdf]](https://arxiv.org/pdf/1609.06018.pdf) 
+- Shan Y, Hoens T R, Jiao J, et al. Deep Crossing: Web-scale modeling 
+  without manually crafted combinatorial features[C]//Proceedings of the 
+  22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016: 255-262.[[pdf]](www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf) 
 
 ---
 
