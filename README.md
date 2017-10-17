@@ -26,6 +26,14 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+## 2017-10-16~ 2017-10-22
+
+- Van den Oord A, Dieleman S, Schrauwen B. Deep content-based music 
+  recommendation[C]//Advances in neural information processing systems. 2013: 2643-2651.[[pdf]](http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf) 
+- Rendle, Steffen. "Factorization machines with libfm." *ACM Transactions on Intelligent Systems and Technology (TIST)* 3.3 (2012): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
+
+---
+
 ## 2017-10-9 ~ 2017-10-15
 
 - Qu Y, Cai H, Ren K, et al. Product-Based Neural Networks for User Response Prediction[C]// IEEE, International Conference on Data Mining. IEEE, 2017:1149-1154.[[pdf]](https://arxiv.org/pdf/1611.00144.pdf)
