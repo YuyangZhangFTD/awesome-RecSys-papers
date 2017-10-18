@@ -31,6 +31,11 @@ Gook luck to every rec-sys learner.
 - Van den Oord A, Dieleman S, Schrauwen B. Deep content-based music 
   recommendation[C]//Advances in neural information processing systems. 2013: 2643-2651.[[pdf]](http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf) 
 - Rendle, Steffen. "Factorization machines with libfm." *ACM Transactions on Intelligent Systems and Technology (TIST)* 3.3 (2012): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
+- Juan Y, Zhuang Y, Chin W S, et al. Field-aware factorization machines for CTR prediction[C]//Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016: 43-50.[[pdf]](http://ntucsu.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) 
+- Rendle S, Schmidt-Thieme L. Pairwise interaction tensor factorization for personalized tag recommendation[C]//Proceedings of the third ACM international conference on Web search and data mining. ACM, 2010: 81-90.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010-PITF.pdf) 
+- Blondel M, Fujino A, Ueda N, et al. Higher-order factorization machines[C]//Advances in Neural Information Processing Systems. 2016: 3351-3359.[[pdf]](http://papers.nips.cc/paper/6144-higher-order-factorization-machines.pdf) 
+- Rendle S. Factorization machines with libfm[J]. ACM Transactions on Intelligent Systems and Technology (TIST), 2012, 3(3): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
+- ​
 
 ---
 
