@@ -15,12 +15,12 @@ By the way, the RecSys is one of the most important conference in recommendation
 
 ## Hey !
 I graduated three months ago, and this list has not been updated for three months.
-And now I have become a machine learning engineer in Suning, majoring in recommendation system and other machine learning fileds.
+And now I have become a machine learning engineer in Suning, majoring in recommendation system and other machine learning fields.
 So I decide to continue to update this list in the future. But I will change the format for convenience.
 
 I will record the papers here which I have read, and the I will update the list once a week.
-Some paper can't be downloaded if you don't have access for some digital library, like acm digital library and so on.
-So if you want to read this paper, email me~ [ZhangYuyang4d@163.com](ZhangYuyang4d@163.com)
+Some papers can't be downloaded if you don't have access for some digital library, like acm digital library and so on.
+So if you want to read these papers, email me~ [ZhangYuyang4d@163.com](ZhangYuyang4d@163.com)
 
 By the way, I won't classify papers into several categories, and just list their names and download links here.
 
