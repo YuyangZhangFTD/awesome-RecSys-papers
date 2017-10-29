@@ -29,11 +29,12 @@ Gook luck to every rec-sys learner.
 ## 2017-10-23~ 2017-10-29
 
 - Zhang T, Zhang T, Zhang T, et al. Gradient boosting factorization machines[C]// ACM Conference on Recommender Systems. ACM, 2014:265-272.[[pdf]](http://pdfs.semanticscholar.org/cd57/9e1e9cc350c3f7746e6ae6911a97e21ba27c.pdf)
-
 - He X, Chua T S. Neural Factorization Machines for Sparse Predictive Analytics[J]. 2017:355-364.[[pdf]](https://arxiv.org/pdf/1708.05027.pdf)
-
-- 
-
+- Goodfellow I J, Pouget-Abadie J, Mirza M, et al. Generative Adversarial Networks[J]. Advances in Neural Information Processing Systems, 2014, 3:2672-2680.[[pdf]](https://arxiv.org/pdf/1406.2661.pdf)
+- Boyd S, Parikh N, Chu E, et al. Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers[J]. Foundations & Trends in Machine Learning, 2010, 3(1):1-122.[[pdf]](http://www.cuisineraufourabois.com/Distributed-Optimization-and-Statistical-Learning-Via-the-Alternating-Direction-Method-of-Multipliers.pdf)
+- Friedman,  J. H., Hastie, T. and Tibshirani, R. [Regularized Paths for Generalized Linear Models via Coordinate Descent](http://www.jstatsoft.org/v33/i01/paper). Journal of Statistical Software, 33(1) (2008)[[pdf]](http://www.jstatsoft.org/v33/i01/paper)
+- ​
+- ​
 
 ## 2017-10-16~ 2017-10-22
 
