@@ -46,7 +46,7 @@ Gook luck to every rec-sys learner.
 - Blondel M, Fujino A, Ueda N, et al. Higher-order factorization machines[C]//Advances in Neural Information Processing Systems. 2016: 3351-3359.[[pdf]](http://papers.nips.cc/paper/6144-higher-order-factorization-machines.pdf) 
 - Rendle S. Factorization machines with libfm[J]. ACM Transactions on Intelligent Systems and Technology (TIST), 2012, 3(3): 57.[[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) 
 - Yin Lou, Mikhail Obukhov. BDT- Boosting Decision Tables for High Accuracy and Scoring Efficiency. KDD2017.[[pdf]](http://delivery.acm.org/10.1145/3100000/3098175/p1893-lou.pdf?ip=114.221.71.73&id=3098175&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&CFID=996660400&CFTOKEN=49966860&__acm__=1508423525_a65e902e920624f4b0cca5049fee3916) 
-- Ning Y, Shi Y, Hong L, et al. A Gradient-based Adaptive Learning Framework for E icient Personal Recommendation[J]. 2017. [[pdf]](http://people.cs.vt.edu/naren/papers/recs254-ningA.pdf)  ​
+- Ning Y, Shi Y, Hong L, et al. A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation[J]. 2017. [[pdf]](http://people.cs.vt.edu/naren/papers/recs254-ningA.pdf)
 
 ---
 
