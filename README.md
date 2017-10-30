@@ -26,17 +26,23 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+## 2017-10-30 ~ 2017-11-05
+
+- Ning Y, Shi Y, Hong L, et al. A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation[C]// the Eleventh ACM Conference. ACM, 2017:23-31.[[pdf]](www.hongliangjie.com/publications/recsys2017.pdf)
+
+---
+
 ## 2017-10-23~ 2017-10-29
 
 - Zhang T, Zhang T, Zhang T, et al. Gradient boosting factorization machines[C]// ACM Conference on Recommender Systems. ACM, 2014:265-272.[[pdf]](http://pdfs.semanticscholar.org/cd57/9e1e9cc350c3f7746e6ae6911a97e21ba27c.pdf)
 - He X, Chua T S. Neural Factorization Machines for Sparse Predictive Analytics[J]. 2017:355-364.[[pdf]](https://arxiv.org/pdf/1708.05027.pdf)
 - Goodfellow I J, Pouget-Abadie J, Mirza M, et al. Generative Adversarial Networks[J]. Advances in Neural Information Processing Systems, 2014, 3:2672-2680.[[pdf]](https://arxiv.org/pdf/1406.2661.pdf)
 - Boyd S, Parikh N, Chu E, et al. Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers[J]. Foundations & Trends in Machine Learning, 2010, 3(1):1-122.[[pdf]](http://www.cuisineraufourabois.com/Distributed-Optimization-and-Statistical-Learning-Via-the-Alternating-Direction-Method-of-Multipliers.pdf)
-- Friedman,  J. H., Hastie, T. and Tibshirani, R. [Regularized Paths for Generalized Linear Models via Coordinate Descent](http://www.jstatsoft.org/v33/i01/paper). Journal of Statistical Software, 33(1) (2008)[[pdf]](http://www.jstatsoft.org/v33/i01/paper)
-- ​
-- ​
+- Friedman,  J. H., Hastie, T. and Tibshirani, R. Regularized Paths for Generalized Linear Models via Coordinate Descent. Journal of Statistical Software, 33(1) (2008)[[pdf]](http://www.jstatsoft.org/v33/i01/paper)
 
-## 2017-10-16~ 2017-10-22
+---
+
+## 2017-10-16 ~ 2017-10-22
 
 - Van den Oord A, Dieleman S, Schrauwen B. Deep content-based music 
   recommendation[C]//Advances in neural information processing systems. 2013: 2643-2651.[[pdf]](http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf) 
@@ -50,7 +56,7 @@ Gook luck to every rec-sys learner.
 
 ---
 
-## 2017-10-9 ~ 2017-10-15
+## 2017-10-09 ~ 2017-10-15
 
 - Qu Y, Cai H, Ren K, et al. Product-Based Neural Networks for User Response Prediction[C]// IEEE, International Conference on Data Mining. IEEE, 2017:1149-1154.[[pdf]](https://arxiv.org/pdf/1611.00144.pdf)
 - Zhang W, Du T, Wang J, et al. Deep Learning over Multi-field Categorical Data[C]. european conference on information retrieval, 2016: 45-57.
