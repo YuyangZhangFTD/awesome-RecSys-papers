@@ -29,6 +29,11 @@ Gook luck to every rec-sys learner.
 ## 2017-10-30 ~ 2017-11-05
 
 - Ning Y, Shi Y, Hong L, et al. A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation[C]// the Eleventh ACM Conference. ACM, 2017:23-31.[[pdf]](www.hongliangjie.com/publications/recsys2017.pdf)
+- Rendle S, Freudenthaler C, Gantner Z, et al. BPR: Bayesian personalized ranking from implicit feedback[C]// Conference on Uncertainty in Artificial Intelligence. AUAI Press, 2009:452-461.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle_et_al2009-Bayesian_Personalized_Ranking.pdf)
+-  
+- 
+
+
 
 ---
 
