@@ -29,7 +29,7 @@ Gook luck to every rec-sys learner.
 ## 2017-11-06 ~ 2017-11-12
 - Rendle S, Freudenthaler C. Improving pairwise learning for item recommendation from implicit feedback[C]// ACM International Conference on Web Search and Data Mining. ACM, 2014:273-282.[[pdf]](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/ReFr14.pdf)
 - Zhou G, Song C, Zhu X, et al. Deep Interest Network for Click-Through Rate Prediction[J]. 2017.[[pdf]](http://arxiv.org/abs/1706.06978.pdf)
-- 
+- Zhai, Shuangfei, et al. "Deepintent: Learning attentions for online advertising with recurrent neural networks." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.[[pdf]](http://www.kdd.org/kdd2016/papers/files/rfp0289-zhaiA.pdf) 
 
 
 --- 
