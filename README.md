@@ -26,16 +26,18 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+## 2017-11-06 ~ 2017-11-12
+- Rendle S, Freudenthaler C. Improving pairwise learning for item recommendation from implicit feedback[C]// ACM International Conference on Web Search and Data Mining. ACM, 2014:273-282.[[pdf]](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/ReFr14.pdf)
+- Zhou G, Song C, Zhu X, et al. Deep Interest Network for Click-Through Rate Prediction[J]. 2017.[[pdf]](http://arxiv.org/abs/1706.06978.pdf)
+- 
+
+
+--- 
+
 ## 2017-10-30 ~ 2017-11-05
 
 - Ning Y, Shi Y, Hong L, et al. A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation[C]// the Eleventh ACM Conference. ACM, 2017:23-31.[[pdf]](http://www.hongliangjie.com/publications/recsys2017.pdf)
 - Rendle S, Freudenthaler C, Gantner Z, et al. BPR: Bayesian personalized ranking from implicit feedback[C]// Conference on Uncertainty in Artificial Intelligence. AUAI Press, 2009:452-461.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle_et_al2009-Bayesian_Personalized_Ranking.pdf)
-- Rendle S, Freudenthaler C. Improving pairwise learning for item recommendation from implicit feedback[C]// ACM International Conference on Web Search and Data Mining. ACM, 2014:273-282.[[pdf]](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/ReFr14.pdf)
-- Herschtal A, Raskutti B. Optimising area under the ROC curve using gradient descent[C]// International Conference on Machine Learning. ACM, 2004:49.[[pdf]](https://static.aminer.org/pdf/PDF/000/334/976/optimising_area_under_the_roc_curve_using_gradient_descent.pdf)
-- Zhou G, Song C, Zhu X, et al. Deep Interest Network for Click-Through Rate Prediction[J]. 2017.[[pdf]](http://arxiv.org/abs/1706.06978.pdf)
-
-
-
 
 ---
 
