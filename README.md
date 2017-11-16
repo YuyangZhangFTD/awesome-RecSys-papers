@@ -29,6 +29,8 @@ Gook luck to every rec-sys learner.
 ## 2017-11-13 ~ 2017-11~19
 
 - Gallego G, Van Ryzin G J. Optimal Dynamic Pricing of Inventories with Stochastic Demand over Finite Horizons[J]. Management Science, 1994, 40(8): 999-1020.[[pdf]](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/3943/vanryzin_optimal_dynamic_pricing.pdf)
+- Davidson, James, et al. "The YouTube video recommendation system." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](<F12>https://www.researchgate.net/profile/Sujoy_Gupta2/publication/221140967_The_YouTube_video_recommendation_system/links/53e834410cf21cc29fdc35d2/The-YouTube-video-recommendation-system.pdf)	
+
 
 
 ---
