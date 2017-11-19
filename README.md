@@ -26,12 +26,18 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+## 2017-11-20~ 2017-11~26
+
+- [[pdf]]() 
+
+---
+
 ## 2017-11-13 ~ 2017-11~19
 
 - Gallego G, Van Ryzin G J. Optimal Dynamic Pricing of Inventories with Stochastic Demand over Finite Horizons[J]. Management Science, 1994, 40(8): 999-1020.[[pdf]](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/3943/vanryzin_optimal_dynamic_pricing.pdf)
-- Davidson, James, et al. "The YouTube video recommendation system." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](<F12>https://www.researchgate.net/profile/Sujoy_Gupta2/publication/221140967_The_YouTube_video_recommendation_system/links/53e834410cf21cc29fdc35d2/The-YouTube-video-recommendation-system.pdf)	
-
-
+- Davidson, James, et al. "The YouTube video recommendation system." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](F12>https://www.researchgate.net/profile/Sujoy_Gupta2/publication/221140967_The_YouTube_video_recommendation_system/links/53e834410cf21cc29fdc35d2/The-YouTube-video-recommendation-system.pdf)
+- (Pre-Processings, nips2017) LightGBM: A Highly Efficient Gradient Boosting Decision Tree [[pdf]](https://papers.nips.cc/paper/6907-a-highly-efficient-gradient-boosting-decision-tree.pdf)
+- (Pre-Processings, nips2017) A Meta-Learning Perspective on Cold-Start Recommendations for Items [[pdf]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/7dd3e55d6236efd63f1311f7f484450638278bdc.pdf) 
 
 ---
 ## 2017-11-06 ~ 2017-11-12
@@ -40,7 +46,7 @@ Gook luck to every rec-sys learner.
 - `*`  Zhai, Shuangfei, et al. "Deepintent: Learning attentions for online advertising with recurrent neural networks." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.[[pdf]](http://www.kdd.org/kdd2016/papers/files/rfp0289-zhaiA.pdf)
 
 
---- 
+---
 
 ## 2017-10-30 ~ 2017-11-05
 
