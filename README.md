@@ -28,6 +28,8 @@ Gook luck to every rec-sys learner.
 
 ## 2017-11-20~ 2017-11~26
 
+- Hu, Yifan, Yehuda Koren, and Chris Volinsky. "Collaborative filtering for implicit feedback datasets." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. Ieee, 2008.[[pdf]](https://www.researchgate.net/profile/Yifan_Hu/publication/220765111_Collaborative_Filtering_for_Implicit_Feedback_Datasets/links/0912f509c579ddd954000000.pdf)
+- `*` Koren, Yehuda, and Joseph Sill. "Collaborative Filtering on Ordinal User Feedback." IJCAI. 2013.[[pdf]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/download/6719/7236)
 - [[pdf]]() 
 
 ---
