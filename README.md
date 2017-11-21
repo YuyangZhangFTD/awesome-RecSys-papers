@@ -30,6 +30,7 @@ Gook luck to every rec-sys learner.
 
 - Hu, Yifan, Yehuda Koren, and Chris Volinsky. "Collaborative filtering for implicit feedback datasets." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. Ieee, 2008.[[pdf]](https://www.researchgate.net/profile/Yifan_Hu/publication/220765111_Collaborative_Filtering_for_Implicit_Feedback_Datasets/links/0912f509c579ddd954000000.pdf)
 - `*` Koren, Yehuda, and Joseph Sill. "Collaborative Filtering on Ordinal User Feedback." IJCAI. 2013.[[pdf]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/download/6719/7236)
+- `*` Ferreira, Kris Johnson, Bin Hong Alex Lee, and David Simchi-Levi. "Analytics for an online retailer: Demand forecasting and price optimization." Manufacturing & Service Operations Management 18.1 (2015): 69-88.[[pdf]](https://dspace.mit.edu/openaccess-disseminate/1721.1/101783)
 - [[pdf]]() 
 
 ---
