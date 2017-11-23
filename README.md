@@ -32,6 +32,8 @@ Gook luck to every rec-sys learner.
 - `*` Koren, Yehuda, and Joseph Sill. "Collaborative Filtering on Ordinal User Feedback." IJCAI. 2013.[[pdf]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/download/6719/7236)
 - `*` Ferreira, Kris Johnson, Bin Hong Alex Lee, and David Simchi-Levi. "Analytics for an online retailer: Demand forecasting and price optimization." Manufacturing & Service Operations Management 18.1 (2015): 69-88.[[pdf]](https://dspace.mit.edu/openaccess-disseminate/1721.1/101783)
 - Davidson, James, et al. "The YouTube video recommendation system." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](https://www.researchgate.net/profile/Sujoy_Gupta2/publication/221140967_The_YouTube_video_recommendation_system/links/53e834410cf21cc29fdc35d2/The-YouTube-video-recommendation-system.pdf)
+- Mnih, Andriy, and Yee Whye Teh. "Learning Item Trees for Probabilistic Modelling of Implicit Feedback." arXiv preprint arXiv:1109.5894 (2011).[[pdf]](https://arxiv.org/pdf/1109.5894.pdf)
+- Wang, Zizhuo. Dynamic Learning Mechanisms in Revenue Management Problems. Diss. Stanford University, 2012.[[pdf]](https://stacks.stanford.edu/file/druid:wj566cf9664/thesis_submission-augmented.pdf)
 - [[pdf]]() 
 
 ---
