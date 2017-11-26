@@ -26,7 +26,16 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
-## 2017-11-20~ 2017-11~26
+## 2017-11-27 ~ 2017-12-03
+
+
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+--
+
+## 2017-11-20 ~ 2017-11~26
 
 - Hu, Yifan, Yehuda Koren, and Chris Volinsky. "Collaborative filtering for implicit feedback datasets." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. Ieee, 2008.[[pdf]](https://www.researchgate.net/profile/Yifan_Hu/publication/220765111_Collaborative_Filtering_for_Implicit_Feedback_Datasets/links/0912f509c579ddd954000000.pdf)
 - `*` Koren, Yehuda, and Joseph Sill. "Collaborative Filtering on Ordinal User Feedback." IJCAI. 2013.[[pdf]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/download/6719/7236)
@@ -35,7 +44,6 @@ Gook luck to every rec-sys learner.
 - Mnih, Andriy, and Yee Whye Teh. "Learning Item Trees for Probabilistic Modelling of Implicit Feedback." arXiv preprint arXiv:1109.5894 (2011).[[pdf]](https://arxiv.org/pdf/1109.5894.pdf)
 - Wang, Zizhuo. Dynamic Learning Mechanisms in Revenue Management Problems. Diss. Stanford University, 2012.[[pdf]](https://stacks.stanford.edu/file/druid:wj566cf9664/thesis_submission-augmented.pdf)
 - (Pre-Processings, nips2017) DropoutNet: Addressing Cold Start in Recommender Systems. [[pdf]](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems.pdf)
-- [[pdf]]() 
 
 ---
 
