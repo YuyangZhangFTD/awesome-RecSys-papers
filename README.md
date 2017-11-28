@@ -28,12 +28,12 @@ Gook luck to every rec-sys learner.
 
 ## 2017-11-27 ~ 2017-12-03
 
+- Mnih, Andriy, and Yee Whye Teh. "Learning Item Trees for Probabilistic Modelling of Implicit Feedback." arXiv preprint arXiv:1109.5894 (2011).[[pdf]](https://arxiv.org/pdf/1109.5894.pdf) 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
---
+---
 
 ## 2017-11-20 ~ 2017-11~26
 
