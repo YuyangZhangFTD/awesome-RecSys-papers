@@ -26,6 +26,18 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+
+## 2017-12-04 ~ 2017-12-10
+
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+
+---
+
 ## 2017-11-27 ~ 2017-12-03
 
 - Mnih, Andriy, and Yee Whye Teh. "Learning Item Trees for Probabilistic Modelling of Implicit Feedback." arXiv preprint arXiv:1109.5894 (2011).[[pdf]](https://arxiv.org/pdf/1109.5894.pdf) 
@@ -35,8 +47,6 @@ Gook luck to every rec-sys learner.
 - Deshpande, Mukund, and George Karypis. "Item-based top-n recommendation algorithms." ACM Transactions on Information Systems (TOIS) 22.1 (2004): 143-177.[[pdf]](https://www.researchgate.net/profile/George_Karypis/publication/242104348_Item-based_top-_N_recommendation_algorithms/links/54c6eb040cf22d626a35e46b.pdf) 
 - `*` Yi, Jinfeng, et al. "Scalable Demand-Aware Recommendation." Advances in Neural Information Processing Systems. 2017.[[pdf]](http://papers.nips.cc/paper/6835-scalable-demand-aware-recommendation.pdf) 
 - `*` Zheng, Zhaohui, et al. "A general boosting method and its application to learning ranking functions for web search." Advances in neural information processing systems. 2008.[[pdf]](http://papers.nips.cc/paper/3305-a-general-boosting-method-and-its-application-to-learning-ranking-functions-for-web-search.pdf) 
-- [[pdf]]() 
-
 
 ---
 
