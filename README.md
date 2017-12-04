@@ -29,8 +29,8 @@ Gook luck to every rec-sys learner.
 
 ## 2017-12-04 ~ 2017-12-10
 
-- [[pdf]]() 
-- [[pdf]]() 
+- Beutel, Alex, et al. "Beyond Globally Optimal: Focused Learning for Improved Recommendations." Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017.[[pdf]](http://alexbeutel.com/papers/www2017_focused_learning.pdf) 
+- Pan, Rong, et al. "One-class collaborative filtering." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. IEEE, 2008.[[pdf]](http://shiftleft.com/mirrors/www.hpl.hp.com/techreports/2008/HPL-2008-48R1.pdf) 
 - [[pdf]]() 
 - [[pdf]]() 
 - [[pdf]]() 
