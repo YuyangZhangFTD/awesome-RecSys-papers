@@ -58,7 +58,7 @@ Gook luck to every rec-sys learner.
 - Davidson, James, et al. "The YouTube video recommendation system." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](https://www.researchgate.net/profile/Sujoy_Gupta2/publication/221140967_The_YouTube_video_recommendation_system/links/53e834410cf21cc29fdc35d2/The-YouTube-video-recommendation-system.pdf)
 - Mnih, Andriy, and Yee Whye Teh. "Learning Item Trees for Probabilistic Modelling of Implicit Feedback." arXiv preprint arXiv:1109.5894 (2011).[[pdf]](https://arxiv.org/pdf/1109.5894.pdf)
 - Wang, Zizhuo. Dynamic Learning Mechanisms in Revenue Management Problems. Diss. Stanford University, 2012.[[pdf]](https://stacks.stanford.edu/file/druid:wj566cf9664/thesis_submission-augmented.pdf)
-- (Pre-Processings, nips2017) DropoutNet: Addressing Cold Start in Recommender Systems. [[pdf]](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems.pdf)
+- Volkovs, Maksims, Guangwei Yu, and Tomi Poutanen. "DropoutNet: Addressing Cold Start in Recommender Systems." Advances in Neural Information Processing Systems. 2017.[[pdf]](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems.pdf)
 
 ---
 
@@ -66,8 +66,8 @@ Gook luck to every rec-sys learner.
 
 - Gallego G, Van Ryzin G J. Optimal Dynamic Pricing of Inventories with Stochastic Demand over Finite Horizons[J]. Management Science, 1994, 40(8): 999-1020.[[pdf]](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/3943/vanryzin_optimal_dynamic_pricing.pdf)
 - Davidson, James, et al. "The YouTube video recommendation system." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](F12>https://www.researchgate.net/profile/Sujoy_Gupta2/publication/221140967_The_YouTube_video_recommendation_system/links/53e834410cf21cc29fdc35d2/The-YouTube-video-recommendation-system.pdf)
-- (Pre-Processings, nips2017) LightGBM: A Highly Efficient Gradient Boosting Decision Tree [[pdf]](https://papers.nips.cc/paper/6907-a-highly-efficient-gradient-boosting-decision-tree.pdf)
-- (Pre-Processings, nips2017) A Meta-Learning Perspective on Cold-Start Recommendations for Items [[pdf]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/7dd3e55d6236efd63f1311f7f484450638278bdc.pdf) 
+- Ke, Guolin, et al. "LightGBM: A Highly Efficient Gradient Boosting Decision Tree." Advances in Neural Information Processing Systems. 2017.(https://papers.nips.cc/paper/6907-a-highly-efficient-gradient-boosting-decision-tree.pdf)
+- Vartak, Manasi, Hugo Larochelle, and Arvind Thiagarajan. "A Meta-Learning Perspective on Cold-Start Recommendations for Items." Advances in Neural Information Processing Systems. 2017. [[pdf]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/7dd3e55d6236efd63f1311f7f484450638278bdc.pdf) 
 
 ---
 ## 2017-11-06 ~ 2017-11-12
