@@ -31,7 +31,7 @@ Gook luck to every rec-sys learner.
 
 - Beutel, Alex, et al. "Beyond Globally Optimal: Focused Learning for Improved Recommendations." Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017.[[pdf]](http://alexbeutel.com/papers/www2017_focused_learning.pdf) 
 - Pan, Rong, et al. "One-class collaborative filtering." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. IEEE, 2008.[[pdf]](http://shiftleft.com/mirrors/www.hpl.hp.com/techreports/2008/HPL-2008-48R1.pdf) 
-- [[pdf]]() 
+- Ferreira K J, Lee B H A, Simchi-Levi D. Analytics for an online retailer: Demand forecasting and price optimization[J]. Manufacturing & Service Operations Management, 2015, 18(1): 69-88.[[pdf]](https://dspace.mit.edu/openaccess-disseminate/1721.1/101783) 
 - [[pdf]]() 
 - [[pdf]]() 
 - [[pdf]]() 
