@@ -43,6 +43,7 @@ Gook luck to every rec-sys learner.
 - Pan, Rong, et al. "One-class collaborative filtering." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. IEEE, 2008.[[pdf]](http://shiftleft.com/mirrors/www.hpl.hp.com/techreports/2008/HPL-2008-48R1.pdf) 
 - Ferreira K J, Lee B H A, Simchi-Levi D. Analytics for an online retailer: Demand forecasting and price optimization[J]. Manufacturing & Service Operations Management, 2015, 18(1): 69-88.[[pdf]](https://dspace.mit.edu/openaccess-disseminate/1721.1/101783) 
 - `*` Manotumruksa J, Macdonald C, Ounis I. A Personalised Ranking Framework with Multiple Sampling Criteria for Venue Recommendation[J]. 2017.[[pdf]](http://www.dcs.gla.ac.uk/~craigm/publications/multi-criteria-sampling.pdf)
+- Xia F, Liu T Y, Wang J, et al. Listwise approach to learning to rank: theory and algorithm[C]//Proceedings of the 25th international conference on Machine learning. ACM, 2008: 1192-1199.[[pdf]](https://pdfs.semanticscholar.org/3168/6da7fd747887672f9f5f4877b93f496c8cf0.pdf)
 
 ---
 
