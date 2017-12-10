@@ -26,15 +26,23 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+## 2017-12-11 ~ 2017-12-17
+
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+
+---
 
 ## 2017-12-04 ~ 2017-12-10
 
 - Beutel, Alex, et al. "Beyond Globally Optimal: Focused Learning for Improved Recommendations." Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017.[[pdf]](http://alexbeutel.com/papers/www2017_focused_learning.pdf) 
 - Pan, Rong, et al. "One-class collaborative filtering." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. IEEE, 2008.[[pdf]](http://shiftleft.com/mirrors/www.hpl.hp.com/techreports/2008/HPL-2008-48R1.pdf) 
 - Ferreira K J, Lee B H A, Simchi-Levi D. Analytics for an online retailer: Demand forecasting and price optimization[J]. Manufacturing & Service Operations Management, 2015, 18(1): 69-88.[[pdf]](https://dspace.mit.edu/openaccess-disseminate/1721.1/101783) 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
+- `*` Manotumruksa J, Macdonald C, Ounis I. A Personalised Ranking Framework with Multiple Sampling Criteria for Venue Recommendation[J]. 2017.[[pdf]](http://www.dcs.gla.ac.uk/~craigm/publications/multi-criteria-sampling.pdf)
 
 ---
 
@@ -43,7 +51,7 @@ Gook luck to every rec-sys learner.
 - Mnih, Andriy, and Yee Whye Teh. "Learning Item Trees for Probabilistic Modelling of Implicit Feedback." arXiv preprint arXiv:1109.5894 (2011).[[pdf]](https://arxiv.org/pdf/1109.5894.pdf) 
 - Karatzoglou, Alexandros, Linas Baltrunas, and Yue Shi. "Learning to rank for recommender systems." Proceedings of the 7th ACM conference on Recommender systems. ACM, 2013.[[pdf]](https://www.researchgate.net/profile/Alexandros_Karatzoglou/publication/262410817_Learning_to_rank_for_recommender_systems/links/560bac2d08ae840a08d6ae23/Learning-to-rank-for-recommender-systems.pdf) 
 - He, Ruining, and Julian McAuley. "VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback." AAAI. 2016.[[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11914/11576)
-- Wang, Xiang, et al. "Item Silk Road: Recommending Items from Information Domains to Social Users." arXiv preprint arXiv:1706.03205 (2017).[[pdf]](https://arxiv.org/pdf/1706.03205.pdf) 
+- `*` Wang, Xiang, et al. "Item Silk Road: Recommending Items from Information Domains to Social Users." arXiv preprint arXiv:1706.03205 (2017).[[pdf]](https://arxiv.org/pdf/1706.03205.pdf) 
 - Deshpande, Mukund, and George Karypis. "Item-based top-n recommendation algorithms." ACM Transactions on Information Systems (TOIS) 22.1 (2004): 143-177.[[pdf]](https://www.researchgate.net/profile/George_Karypis/publication/242104348_Item-based_top-_N_recommendation_algorithms/links/54c6eb040cf22d626a35e46b.pdf) 
 - `*` Yi, Jinfeng, et al. "Scalable Demand-Aware Recommendation." Advances in Neural Information Processing Systems. 2017.[[pdf]](http://papers.nips.cc/paper/6835-scalable-demand-aware-recommendation.pdf) 
 - `*` Zheng, Zhaohui, et al. "A general boosting method and its application to learning ranking functions for web search." Advances in neural information processing systems. 2008.[[pdf]](http://papers.nips.cc/paper/3305-a-general-boosting-method-and-its-application-to-learning-ranking-functions-for-web-search.pdf) 
