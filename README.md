@@ -26,6 +26,18 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+## 2017-12-18 ~ 2017-12-24
+
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+
+
 ## 2017-12-11 ~ 2017-12-17
 
 - Amatriain X, Lathia N, Pujol J M, et al. The wisdom of the few: a collaborative filtering approach based on expert opinions from the web[C]//Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval. ACM, 2009: 532-539.[[pdf]](http://140.122.184.128/presentation/10-08-09/The%20Wisdom%20of%20the%20Few.pdf) 
@@ -33,10 +45,6 @@ Gook luck to every rec-sys learner.
 - Simchi-Levi, David. "The New Frontier of Price Optimization." MIT Sloan Management Review 59.1 (2017): 22. [[pdf]](https://search.proquest.com/openview/4055abf76e92479a14fc48252458f87d/1?pq-origsite=gscholar&cbl=26142)
 - `*` Ito, Shinji, and Ryohei Fujimaki. "Optimization beyond prediction: Prescriptive price optimization." Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2017.[[pdf]](https://arxiv.org/pdf/1605.05422.pdf) 
 - `*` Ito, Shinji, and Ryohei Fujimaki. "Large-Scale Price Optimization via Network Flow." Advances in Neural Information Processing Systems. 2016.[[pdf]](http://papers.nips.cc/paper/6301-large-scale-price-optimization-via-network-flow.pdf) 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
 
 ---
 
