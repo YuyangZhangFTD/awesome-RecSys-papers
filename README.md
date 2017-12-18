@@ -28,7 +28,7 @@ Gook luck to every rec-sys learner.
 
 ## 2017-12-18 ~ 2017-12-24
 
-- [[pdf]]() 
+- Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. ACM, 2010.[[pdf]](https://arxiv.org/pdf/1003.0146) 
 - [[pdf]]() 
 - [[pdf]]() 
 - [[pdf]]() 
