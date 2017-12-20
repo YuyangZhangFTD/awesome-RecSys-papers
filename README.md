@@ -4,6 +4,9 @@ The topic of my dissertation is recommendation system.
 I collected some classic and awesome papers here.
 Good luck to every RecSys-learner.
 
+[Awesome Recommendation System Papers](#jumpawesome)
+
+
 My email is ZhangYuyang4d@163.com.
 If you find any mistakes, 
 or you have some suggestions,
@@ -14,7 +17,7 @@ By the way, the RecSys is one of the most important conference in recommendation
 [RecSys](https://recsys.acm.org)
 
 ## Hey !
-I graduated three months ago, and this list has not been updated for three months.
+I graduated three months ago, and this list has not been updated for three months (from 2017.06.21).
 And now I have become a machine learning engineer in Suning, majoring in recommendation system and other machine learning fields.
 So I decide to continue to update this list in the future. But I will change the format for convenience.
 
@@ -143,13 +146,7 @@ Gook luck to every rec-sys learner.
 
 ---
 
-## Lastest Paper
-I will continue to update this section for a while till I finish my dissertation.
-Maybe some papers of this section can't be downloaded,
-please email me and I will send the pdf to you.
-
-Email again:    [ZhangYuyang4d@163.com](ZhangYuyang4d@163.com)
-
+## <span id="jumpawesome">Awesome Recommmendation System Papers</span>
 
 ## Recent Papers 
 The papers published in recent years are collected here.
