@@ -29,16 +29,27 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+## 2017-12-25 ~ 2017-12-31
+
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+
+---
+
+
 ## 2017-12-18 ~ 2017-12-24
 
 - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. ACM, 2010.[[pdf]](https://arxiv.org/pdf/1003.0146) 
 - Chen, Ting, et al. "On Sampling Strategies for Neural Network-based Collaborative Filtering." Proceedings of the 23th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM. 2017.[[pdf]](http://www.hongliangjie.com/publications/kdd2017.pdf) 
 - `*` Kang, Zhao, Chong Peng, and Qiang Cheng. "Top-N Recommender System via Matrix Completion." AAAI. 2016.[[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11824/11581) 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
+- `*` Wu, Qingyun, et al. "Returning is Believing: Optimizing Long-term User Engagement in Recommender Systems." (2017).[[pdf]](http://www.people.virginia.edu/~qw2ky/files/cikm17_fp1885_wu.pdf) 
+- `*` Ferreira, Kris Johnson, David Simchi-Levi, and He Wang. "Online network revenue management using Thompson sampling." (2016).[[pdf]](http://scal.business.rutgers.edu/file/Kris_16_031_44151337.pdf) 
+
+---
 
 
 ## 2017-12-11 ~ 2017-12-17
