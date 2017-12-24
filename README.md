@@ -32,8 +32,8 @@ Gook luck to every rec-sys learner.
 ## 2017-12-18 ~ 2017-12-24
 
 - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. ACM, 2010.[[pdf]](https://arxiv.org/pdf/1003.0146) 
-- [[pdf]]() 
-- [[pdf]]() 
+- Chen, Ting, et al. "On Sampling Strategies for Neural Network-based Collaborative Filtering." Proceedings of the 23th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM. 2017.[[pdf]](http://www.hongliangjie.com/publications/kdd2017.pdf) 
+- `*` Kang, Zhao, Chong Peng, and Qiang Cheng. "Top-N Recommender System via Matrix Completion." AAAI. 2016.[[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11824/11581) 
 - [[pdf]]() 
 - [[pdf]]() 
 - [[pdf]]() 
@@ -88,7 +88,7 @@ Gook luck to every rec-sys learner.
 
 - Gallego G, Van Ryzin G J. Optimal Dynamic Pricing of Inventories with Stochastic Demand over Finite Horizons[J]. Management Science, 1994, 40(8): 999-1020.[[pdf]](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/3943/vanryzin_optimal_dynamic_pricing.pdf)
 - Davidson, James, et al. "The YouTube video recommendation system." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](F12>https://www.researchgate.net/profile/Sujoy_Gupta2/publication/221140967_The_YouTube_video_recommendation_system/links/53e834410cf21cc29fdc35d2/The-YouTube-video-recommendation-system.pdf)
-- Ke, Guolin, et al. "LightGBM: A Highly Efficient Gradient Boosting Decision Tree." Advances in Neural Information Processing Systems. 2017.(https://papers.nips.cc/paper/6907-a-highly-efficient-gradient-boosting-decision-tree.pdf)
+- Ke, Guolin, et al. "LightGBM: A Highly Efficient Gradient Boosting Decision Tree." Advances in Neural Information Processing Systems. 2017.(https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
 - Vartak, Manasi, Hugo Larochelle, and Arvind Thiagarajan. "A Meta-Learning Perspective on Cold-Start Recommendations for Items." Advances in Neural Information Processing Systems. 2017. [[pdf]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/7dd3e55d6236efd63f1311f7f484450638278bdc.pdf) 
 
 ---
