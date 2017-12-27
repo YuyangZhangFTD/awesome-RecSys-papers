@@ -29,12 +29,23 @@ By the way, I won't classify papers into several categories, and just list their
 
 Gook luck to every rec-sys learner.
 
+## Attention
+
+Some papers are about the Operation Research(OR) which is what I've majored before. 
+I think OR is much more important than what we thought before, so I will read some relative papers in the future.
+
+
+
 ## 2017-12-25 ~ 2017-12-31
 
 - Ayush Singhal, et al. "Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works." arXiv preprint arXiv:1712.07525 (2017).
 [[pdf]](https://arxiv.org/pdf/1712.07525.pdf) 
 - `*` Luo, Xin, et al. "A nonnegative latent factor model for large-scale sparse matrices in recommender systems via alternating direction method." IEEE transactions on neural networks and learning systems 27.3 (2016): 579-592.[[pdf]](http://or.nsfc.gov.cn/bitstream/00001903-5/332249/1/1000013766335.pdf) 
 - `*` Kumar, Vaibhav, et al. "Deep Neural Architecture for News Recommendation." Working Notes of the 8th International Conference of the CLEF Initiative, Dublin, Ireland. CEUR Workshop Proceedings. 2017.[[pdf]](http://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.89f62e3bfac97ac0.44656570204e657572616c204172636869746563747572652e2e2e202856616962686176204b756d61722c204468727576204b6861747461722c205368617368616e6b2047757074612c204d616e6973682047757074612c205661737564657661205661726d61292e706466.pdf) 
+- Fisher, Marshall, Santiago Gallino, and Jun Li. "Competition-based dynamic pricing in online retailing: A methodology validated with field experiments." Management Science (2017).[[pdf]](https://pdfs.semanticscholar.org/839f/0c732752b8603426abb962690df448d9d4d0.pdf) 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
 - [[pdf]]() 
 - [[pdf]]() 
 - [[pdf]]() 
