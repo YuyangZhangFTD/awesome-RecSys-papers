@@ -25,3 +25,5 @@ keqiang Wang, Yuanyuan Jin*, Haofen Wang, hongwei Peng, Xiaoling Wang
 Probabilistic Ensemble of Collaborative Filters
 Zhiyu Min*, Dahua LIN
 
+¦Ó-FPL: Tolerance-Constrained Learning in Linear Time
+
