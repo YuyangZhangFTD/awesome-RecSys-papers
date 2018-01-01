@@ -35,6 +35,19 @@ Some papers are about the Operation Research(OR) which is what I've majored befo
 I think OR is much more important than what we thought before, so I will read some relative papers in the future.
 
 
+## 2018-01-01 ~ 2018-01-07
+
+- Zhou, Zhi-Hua. "Learnware: on the future of machine learning." Frontiers of Computer Science 10.4 (2016): 589-590.APA[[pdf]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/fcs16learnware.pdf) 
+- Zhou, Guorui, et al. "Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net." stat 1050 (2017): 16.[[pdf]](https://www.researchgate.net/profile/Xiaoqiang_Zhu/publication/319121930_Rocket_Launching_A_unified_and_effecient_framework_for_training_well-behaved_light_net/links/59c471070f7e9bd2c0fe2aaa/Rocket-Launching-A-unified-and-effecient-framework-for-training-well-behaved-light-net.pdf) 
+- `*` Ding, Daizong, et al. "BayDNN: Friend Recommendation with Bayesian Personalized Ranking Deep Neural Network." Conference on Information and Knowledge Management (CIKM). 2017.[[pdf]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/cikm17.pdf) 
+- `*` Lin, Tsung-Yi, et al. "Focal loss for dense object detection." arXiv preprint arXiv:1708.02002 (2017).[[pdf]](https://arxiv.org/pdf/1708.02002.pdf) 
+- `*` Prillo, Sebastian. "An Elementary View on Factorization Machines." Proceedings of the Eleventh ACM Conference on Recommender Systems. ACM, 2017.[[pdf]](https://dl.acm.org/citation.cfm?id=3109892) 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+- [[pdf]]() 
+
+---
 
 ## 2017-12-25 ~ 2017-12-31
 
@@ -44,11 +57,6 @@ I think OR is much more important than what we thought before, so I will read so
 - `*` Kumar, Vaibhav, et al. "Deep Neural Architecture for News Recommendation." Working Notes of the 8th International Conference of the CLEF Initiative, Dublin, Ireland. CEUR Workshop Proceedings. 2017.[[pdf]](http://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.89f62e3bfac97ac0.44656570204e657572616c204172636869746563747572652e2e2e202856616962686176204b756d61722c204468727576204b6861747461722c205368617368616e6b2047757074612c204d616e6973682047757074612c205661737564657661205661726d61292e706466.pdf) 
 - Fisher, Marshall, Santiago Gallino, and Jun Li. "Competition-based dynamic pricing in online retailing: A methodology validated with field experiments." Management Science (2017).[[pdf]](https://pdfs.semanticscholar.org/839f/0c732752b8603426abb962690df448d9d4d0.pdf) 
 - Chaney, Allison JB, Brandon M. Stewart, and Barbara E. Engelhardt. "How Algorithmic Confounding in Recommendation Systems Increases Homogeneity and Decreases Utility." arXiv preprint arXiv:1710.11214 (2017).[[pdf]](https://arxiv.org/pdf/1710.11214.pdf) 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
 
 ---
 
