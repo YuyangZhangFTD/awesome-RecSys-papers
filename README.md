@@ -42,7 +42,7 @@ I think OR is much more important than what we thought before, so I will read so
 - `*` Ding, Daizong, et al. "BayDNN: Friend Recommendation with Bayesian Personalized Ranking Deep Neural Network." Conference on Information and Knowledge Management (CIKM). 2017.[[pdf]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/cikm17.pdf) 
 - `*` Lin, Tsung-Yi, et al. "Focal loss for dense object detection." arXiv preprint arXiv:1708.02002 (2017).[[pdf]](https://arxiv.org/pdf/1708.02002.pdf) 
 - `*` Prillo, Sebastian. "An Elementary View on Factorization Machines." Proceedings of the Eleventh ACM Conference on Recommender Systems. ACM, 2017.[[pdf]](https://dl.acm.org/citation.cfm?id=3109892) 
-- [[pdf]]() 
+- Zhou, Li. "A survey on contextual multi-armed bandits." arXiv preprint arXiv:1508.03326 (2015).[[pdf]](https://arxiv.org/pdf/1508.03326.pdf) 
 - [[pdf]]() 
 - [[pdf]]() 
 - [[pdf]]() 
