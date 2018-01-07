@@ -34,6 +34,20 @@ Gook luck to every rec-sys learner.
 Some papers are about the Operation Research(OR) which is what I've majored before. 
 I think OR is much more important than what we thought before, so I will read some relative papers in the future.
 
+## 2018-01-01 ~ 2018-01-07
+
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+
+
+
+---
 
 ## 2018-01-01 ~ 2018-01-07
 
@@ -43,9 +57,8 @@ I think OR is much more important than what we thought before, so I will read so
 - `*` Lin, Tsung-Yi, et al. "Focal loss for dense object detection." arXiv preprint arXiv:1708.02002 (2017).[[pdf]](https://arxiv.org/pdf/1708.02002.pdf) 
 - `*` Prillo, Sebastian. "An Elementary View on Factorization Machines." Proceedings of the Eleventh ACM Conference on Recommender Systems. ACM, 2017.[[pdf]](https://dl.acm.org/citation.cfm?id=3109892) 
 - Zhou, Li. "A survey on contextual multi-armed bandits." arXiv preprint arXiv:1508.03326 (2015).[[pdf]](https://arxiv.org/pdf/1508.03326.pdf) 
-- [[pdf]]() 
-- [[pdf]]() 
-- [[pdf]]() 
+- Liang, Dawen, et al. "Modeling user exposure in recommendation." Proceedings of the 25th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2016.[[pdf]](http://www.cs.columbia.edu/~blei/papers/LiangCharlinMcInerneyBlei2016.pdf) 
+- Cremonesi, Paolo, Yehuda Koren, and Roberto Turrin. "Performance of recommender algorithms on top-n recommendation tasks." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](https://www.researchgate.net/profile/Paolo_Cremonesi/publication/221141030_Performance_of_recommender_algorithms_on_top-N_recommendation_tasks/links/55ef4ac808ae0af8ee1b1bd0.pdf) 
 
 ---
 
