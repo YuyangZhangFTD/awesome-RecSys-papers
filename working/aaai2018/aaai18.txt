@@ -16,14 +16,27 @@ Changhee Lee*, William Zame, Jinsung Yoon, Mihaela van der Schaar
 High Rank Matrix Completion with Side Information
 Ehsan Elhamifar*, Yugang Wang
 
-Nonparametric Stochastic Contextual Bandits
-Melody Guan*, Heinrich Jiang
-
 Personalized Time-aware Tag Recommendation
 keqiang Wang, Yuanyuan Jin*, Haofen Wang, hongwei Peng, Xiaoling Wang
 
 Probabilistic Ensemble of Collaborative Filters
 Zhiyu Min*, Dahua LIN
 
-¦Ó-FPL: Tolerance-Constrained Learning in Linear Time
+Exact Clustering via Integer Programming and Maximum Satisfiability
+Atsushi Miyauchi*, Tomohiro Sonobe, Noriyoshi Sukegawa
 
+Linear and Integer Programming-based Heuristics for Cost-optimal Numeric Planning
+Chiara Piacentini*, Margarita Castro, Andre Cire, Chris Beck
+
+A Combinatorial-bandit Algorithm for the Online Joint Bid/Budget Optimization of Pay-perclick
+Advertising Campaigns
+Francesco Trovo*, Alessandro Nuara, Nicola Gatti, Marcello Restelli
+
+Nonparametric Stochastic Contextual Bandits
+Melody Guan*, Heinrich Jiang
+
+Online Clustering of Contextual Cascading Bandits
+Shuai Li*, Shengyu Zhang
+
+Transferable Contextual Bandit for Cross-Domain Recommendation
+Bo Liu*, Ying Wei, Yu Zhang, Zhixian Yan, Qiang Yang

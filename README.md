@@ -36,9 +36,9 @@ I think OR is much more important than what we thought before, so I will read so
 
 ## 2018-01-01 ~ 2018-01-07
 
-- [[pdf]]()
-- [[pdf]]()
-- [[pdf]]()
+- Nambiar, Mila, David Simchi-Levi, and He Wang. "Dynamic Learning and Price Optimization with Endogeneity Effect." (2016).[[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2859672)
+- Longqi Yang, Eugene Bagdasaryan, Joshua Gruenstein, Cheng-Kang Hsieh, and Deborah Estrin. 2018. OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms. In Proceedings of WSDM’18, February 5–9, 2018, Marina Del Rey, CA, USA.[[pdf]](http://www.cs.cornell.edu/~ylongqi/paper/YangBGHE18.pdf)
+- Liu, Kuan, and Prem Natarajan. "A Batch Learning Framework for Scalable Personalized Ranking." arXiv preprint arXiv:1711.04019 (2017).[[pdf]](https://arxiv.org/pdf/1711.04019.pdf)
 - [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
