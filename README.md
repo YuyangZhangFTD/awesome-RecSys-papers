@@ -34,18 +34,27 @@ Gook luck to every rec-sys learner.
 Some papers are about the Operation Research(OR) which is what I've majored before. 
 I think OR is much more important than what we thought before, so I will read some relative papers in the future.
 
-## 2018-01-01 ~ 2018-01-07
+## 2018-01-15 ~ 2018-01-21
+
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+
+---
+
+## 2018-01-08 ~ 2018-01-14
 
 - Nambiar, Mila, David Simchi-Levi, and He Wang. "Dynamic Learning and Price Optimization with Endogeneity Effect." (2016).[[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2859672)
 - Longqi Yang, Eugene Bagdasaryan, Joshua Gruenstein, Cheng-Kang Hsieh, and Deborah Estrin. 2018. OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms. In Proceedings of WSDM’18, February 5–9, 2018, Marina Del Rey, CA, USA.[[pdf]](http://www.cs.cornell.edu/~ylongqi/paper/YangBGHE18.pdf)
 - Liu, Kuan, and Prem Natarajan. "A Batch Learning Framework for Scalable Personalized Ranking." arXiv preprint arXiv:1711.04019 (2017).[[pdf]](https://arxiv.org/pdf/1711.04019.pdf)
 - He, Xiangnan, et al. "Fast matrix factorization for online recommendation with implicit feedback." Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2016.[[pdf]](https://iscs.nus.edu.sg/~kanmy/papers/sigir16.pdf)
 - Elahi, Mehdi, et al. "Exploring the Semantic Gap for Movie Recommendations." Proceedings of the Eleventh ACM Conference on Recommender Systems. ACM, 2017.[[pdf]](https://re.public.polimi.it/bitstream/11311/1032224/1/exploring-semantic-gap-final.pdf)
-- [[pdf]]()
-- [[pdf]]()
-- [[pdf]]()
-
-
+- Su, Xiaoyuan, and Taghi M. Khoshgoftaar. "A survey of collaborative filtering techniques." Advances in artificial intelligence 2009 (2009): 4.[[pdf]](http://downloads.hindawi.com/journals/aai/2009/421425.pdf)
 
 ---
 
