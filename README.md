@@ -36,9 +36,9 @@ I think OR is much more important than what we thought before, so I will read so
 
 ## 2018-01-15 ~ 2018-01-21
 
-- [[pdf]]()
-- [[pdf]]()
-- [[pdf]]()
+- Hong, Liangjie, Aziz S. Doumith, and Brian D. Davison. "Co-factorization machines: modeling user interests and predicting individual decisions in twitter." Proceedings of the sixth ACM international conference on Web search and data mining. ACM, 2013.[[pdf]](http://www.cse.lehigh.edu/~brian/pubs/2013/WSDM/co-factorization-machines-v2.pdf)
+- `*` Srebro, Nathan, Jason Rennie, and Tommi S. Jaakkola. "Maximum-margin matrix factorization." Advances in neural information processing systems. 2005.[[pdf]](http://papers.nips.cc/paper/2655-maximum-margin-matrix-factorization.pdf)
+- `*` Weimer, Markus, Alexandros Karatzoglou, and Alex Smola. "Adaptive collaborative filtering." Proceedings of the 2008 ACM conference on Recommender systems. ACM, 2008.[[pdf]](http://www.academia.edu/download/34477352/2008-RecSys.pdf)
 - [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
