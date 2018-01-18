@@ -45,7 +45,7 @@ I think OR is much more important than what we thought before, so I will read so
 - `*` Fernández-Tobías, Ignacio, et al. "Accuracy and diversity in cross-domain recommendations for cold-start users with positive-only feedback." Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016.[[pdf]](http://sisinflab.poliba.it/publications/2016/FTCDD16/Accuracy%20and%20Diversity%20in%20Cross-domain%20Recommendations%20for%20Cold-start%20Users%20with%20Positive-only%20Feedback.pdf)
 - MLA	Cheung, Wang Chi, David Simchi-Levi, and He Wang. "Dynamic pricing and demand learning with limited price experimentation." Operations Research 65.6 (2017): 1722-1731.[[pdf]](https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1629)
 - Lim, Daryl, Julian McAuley, and Gert Lanckriet. "Top-n recommendation with missing implicit feedback." Proceedings of the 9th ACM Conference on Recommender Systems. ACM, 2015.[[pdf]](http://eceweb.ucsd.edu/~gert/papers/topNmif.pdf)
-- [[pdf]]()
+- Balakrishnan, Suhrid, and Sumit Chopra. "Collaborative ranking." Proceedings of the fifth ACM international conference on Web search and data mining. ACM, 2012.[[pdf]](http://web2.research.att.com/export/sites/att_labs/techdocs/TD_100638.pdf)
 - [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
