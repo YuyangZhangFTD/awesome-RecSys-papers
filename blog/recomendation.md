@@ -112,12 +112,12 @@ deep learning 和 recommendation system
 ---
 
 # Reference
-1. Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 42.8 (2009). **矩阵分解模型最早的一篇**
-2. Hu, Yifan, Yehuda Koren, and Chris Volinsky. "Collaborative filtering for implicit feedback datasets." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. Ieee, 2008. **隐式反馈比较早的一篇，加权矩阵分解模型**
-3. K. J¨ arvelin and J. Kek¨ al¨ ainen. Cumulated gain-based evaluation of ir techniques. ACM Trans. Inf. Syst., 20:422-446, October 2002.  **NDCG用于信息检索领域**
-4. Shuai Zhang, Lina Yao, and Aixin Sun. 2017. Deep Learning based Recommender System: A Survey and New Perspectives. (2017).   **DL和RS的survey**
-5. Paul Covington, Jay Adams, and Emre Sargin. 2016. Deep Neural Networks for YouTube Recommendations. In ACM Conference on Recommender Systems. 191–198.   **youtube 16年深度学习推荐系统**
-6. SÃľbastien Jean, Kyunghyun Cho, Roland Memisevic, and Yoshua Bengio. 2014. On Using Very Large Target Vocabulary for Neural Machine Translation. Computer Science (2014).    **bengio nlp 语音翻译，负采样**
+1. **矩阵分解模型最早的一篇** Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 42.8 (2009). 
+2. **隐式反馈比较早的一篇，加权矩阵分解模型** Hu, Yifan, Yehuda Koren, and Chris Volinsky. "Collaborative filtering for implicit feedback datasets." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. Ieee, 2008. 
+3. **NDCG用于信息检索领域** K. J¨ arvelin and J. Kek¨ al¨ ainen. Cumulated gain-based evaluation of ir techniques. ACM Trans. Inf. Syst., 20:422-446, October 2002.  
+4. **DL和RS的survey** Shuai Zhang, Lina Yao, and Aixin Sun. 2017. Deep Learning based Recommender System: A Survey and New Perspectives. (2017).   
+5. **youtube 16年深度学习推荐系统** Paul Covington, Jay Adams, and Emre Sargin. 2016. Deep Neural Networks for YouTube Recommendations. In ACM Conference on Recommender Systems. 191–198.   
+6. **bengio nlp 语音翻译，负采样** SÃľbastien Jean, Kyunghyun Cho, Roland Memisevic, and Yoshua Bengio. 2014. On Using Very Large Target Vocabulary for Neural Machine Translation. Computer Science (2014).    
 7. J. Weston, A. Makadia, and H. Yee. 2013. Label partitioning for sublinear ranking. In International Conference on Machine Learning. 181–189
-8. Zeno Gantner, Steffen Rendle, Christoph Freudenthaler, and Lars SchmidtThieme. 2011. MyMediaLite: A free recommender system library. In Proceedings of the fifth ACM conference on Recommender systems. ACM, 305–308.     **推荐系统库MyMediaLite **
-9. Heng-Tze Cheng, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra, Hrishi Aradhye, Glen Anderson, Greg Corrado, Wei Chai, Mustafa Ispir, et al. 2016. Wide & deep learning for recommender systems. In Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 7–10.  **Google的wide&deep模型**
+8. **推荐系统库MyMediaLite** Zeno Gantner, Steffen Rendle, Christoph Freudenthaler, and Lars SchmidtThieme. 2011. MyMediaLite: A free recommender system library. In Proceedings of the fifth ACM conference on Recommender systems. ACM, 305–308.    
+9.  **Google的wide&deep模型** Heng-Tze Cheng, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra, Hrishi Aradhye, Glen Anderson, Greg Corrado, Wei Chai, Mustafa Ispir, et al. 2016. Wide & deep learning for recommender systems. In Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 7–10. 
