@@ -16,7 +16,7 @@ By the way, the RecSys is one of the most important conference in recommendation
 
 [RecSys](https://recsys.acm.org)
 
-## Hey !
+## My Reading List
 I graduated three months ago, and this list has not been updated for three months (from 2017.06.21).
 And now I have become a machine learning engineer in Suning, majoring in recommendation system and other machine learning fields.
 So I decide to continue to update this list in the future. But I will change the format for convenience.
