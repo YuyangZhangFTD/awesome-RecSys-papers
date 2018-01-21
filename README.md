@@ -33,6 +33,21 @@ Gook luck to every rec-sys learner.
 
 Some papers about OR will be added in the future.
 
+
+## 2018-01-22 ~ 2018-01-28
+
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+
+---
+
 ## 2018-01-15 ~ 2018-01-21
 
 - Hong, Liangjie, Aziz S. Doumith, and Brian D. Davison. "Co-factorization machines: modeling user interests and predicting individual decisions in twitter." Proceedings of the sixth ACM international conference on Web search and data mining. ACM, 2013.[[pdf]](http://www.cse.lehigh.edu/~brian/pubs/2013/WSDM/co-factorization-machines-v2.pdf)
@@ -45,10 +60,9 @@ Some papers about OR will be added in the future.
 - MLA	Cheung, Wang Chi, David Simchi-Levi, and He Wang. "Dynamic pricing and demand learning with limited price experimentation." Operations Research 65.6 (2017): 1722-1731.[[pdf]](https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1629)
 - Lim, Daryl, Julian McAuley, and Gert Lanckriet. "Top-n recommendation with missing implicit feedback." Proceedings of the 9th ACM Conference on Recommender Systems. ACM, 2015.[[pdf]](http://eceweb.ucsd.edu/~gert/papers/topNmif.pdf)
 - Balakrishnan, Suhrid, and Sumit Chopra. "Collaborative ranking." Proceedings of the fifth ACM international conference on Web search and data mining. ACM, 2012.[[pdf]](http://web2.research.att.com/export/sites/att_labs/techdocs/TD_100638.pdf)
-- [[pdf]]()
-- [[pdf]]()
-- [[pdf]]()
-- [[pdf]]()
+- Okura, Shumpei, et al. "Embedding-based news recommendation for millions of users." Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2017.[[pdf]](http://dl.acm.org/authorize?N33473)
+- Okura, Shumpei, Yukihiro Tagami, and Akira Tajima. "Article De-duplication Using Distributed Representations." Proceedings of the 25th International Conference Companion on World Wide Web. International World Wide Web Conferences Steering Committee, 2016.[[pdf]](http://gdac.uqam.ca/WWW2016-Proceedings/companion/p87.pdf)
+- `*` Bogers, Toine, and Marijn Koolen. "Defining and Supporting Narrative-driven Recommendation." Proceedings of the Eleventh ACM Conference on Recommender Systems. ACM, 2017.[[pdf]](https://www.researchgate.net/profile/Marijn_Koolen/publication/319285421_Defining_and_Supporting_Narrative-driven_Recommendation/links/59c360f2aca272295a11fedf/Defining-and-Supporting-Narrative-driven-Recommendation.pdf)
 
 ---
 
