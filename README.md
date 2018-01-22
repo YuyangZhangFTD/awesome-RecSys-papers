@@ -36,7 +36,7 @@ Some papers about OR will be added in the future.
 
 ## 2018-01-22 ~ 2018-01-28
 
-- [[pdf]]()
+- Clearance Pricing Optimization for a Fast-Fashion Retailer[[pdf]](http://escholarship.org/uc/item/0fm8d8sv.pdf)
 - [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
