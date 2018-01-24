@@ -37,7 +37,7 @@ Some papers about OR will be added in the future.
 ## 2018-01-22 ~ 2018-01-28
 
 - Clearance Pricing Optimization for a Fast-Fashion Retailer[[pdf]](http://escholarship.org/uc/item/0fm8d8sv.pdf)
-- [[pdf]]()
+- Zhang, Haiyang, et al. "Weighted Matrix Factorization with Bayesian Personalized Ranking." SAI Computing Conference, London, UK. 2017.[[pdf]](https://www.researchgate.net/profile/Nikola_Nikolov2/publication/322410140_Weighted_matrix_factorization_with_Bayesian_personalized_ranking/links/5a5b3ab2a6fdcc3bfb606a8e/Weighted-matrix-factorization-with-Bayesian-personalized-ranking.pdf)
 - [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
