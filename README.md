@@ -38,9 +38,9 @@ Some papers about OR will be added in the future.
 
 - Clearance Pricing Optimization for a Fast-Fashion Retailer[[pdf]](http://escholarship.org/uc/item/0fm8d8sv.pdf)
 - Zhang, Haiyang, et al. "Weighted Matrix Factorization with Bayesian Personalized Ranking." SAI Computing Conference, London, UK. 2017.[[pdf]](https://www.researchgate.net/profile/Nikola_Nikolov2/publication/322410140_Weighted_matrix_factorization_with_Bayesian_personalized_ranking/links/5a5b3ab2a6fdcc3bfb606a8e/Weighted-matrix-factorization-with-Bayesian-personalized-ranking.pdf)
-- Nesterov, Yurii. "Primal-dual subgradient methods for convex problems." Mathematical programming 120.1 (2009): 221-259.[[pdf]](http://ium.mccme.ru/postscript/s12/GS-Nesterov%20Primal-dual.pdf)
-- [[pdf]]()
-- [[pdf]]()
+- `*` Nesterov, Yurii. "Primal-dual subgradient methods for convex problems." Mathematical programming 120.1 (2009): 221-259.[[pdf]](http://ium.mccme.ru/postscript/s12/GS-Nesterov%20Primal-dual.pdf)
+- Ling, Guang, et al. "Online learning for collaborative filtering." Neural Networks (IJCNN), The 2012 International Joint Conference on. IEEE, 2012.[[pdf]](https://pdfs.semanticscholar.org/3848/5c7b4e991a67cda20c38062626a7637955b9.pdf)
+- Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008.[[pdf]](http://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
 - [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
