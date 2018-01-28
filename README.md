@@ -33,6 +33,17 @@ Gook luck to every rec-sys learner.
 
 Some papers about OR will be added in the future.
 
+## 2018-01-29 ~ 2018-02-04
+
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+
+---
+
+
 
 ## 2018-01-22 ~ 2018-01-28
 
@@ -41,10 +52,8 @@ Some papers about OR will be added in the future.
 - `*` Nesterov, Yurii. "Primal-dual subgradient methods for convex problems." Mathematical programming 120.1 (2009): 221-259.[[pdf]](http://ium.mccme.ru/postscript/s12/GS-Nesterov%20Primal-dual.pdf)
 - Ling, Guang, et al. "Online learning for collaborative filtering." Neural Networks (IJCNN), The 2012 International Joint Conference on. IEEE, 2012.[[pdf]](https://pdfs.semanticscholar.org/3848/5c7b4e991a67cda20c38062626a7637955b9.pdf)
 - Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008.[[pdf]](http://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
-- [[pdf]]()
-- [[pdf]]()
-- [[pdf]]()
-- [[pdf]]()
+- Choi, Sungwoon, et al. "Reinforcement Learning based Recommender System using Biclustering Technique." arXiv preprint arXiv:1801.05532 (2018).[[pdf]](https://arxiv.org/pdf/1801.05532.pdf)
+- Li, Qibing, and Xiaolin Zheng. "Deep Collaborative Autoencoder for Recommender Systems: A Unified Framework for Explicit and Implicit Feedback." arXiv preprint arXiv:1712.09043 (2017).[[pdf]](https://arxiv.org/pdf/1712.09043.pdf)
 
 ---
 
