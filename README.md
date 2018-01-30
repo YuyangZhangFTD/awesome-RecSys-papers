@@ -35,6 +35,12 @@ Some papers about OR will be added in the future.
 
 ## 2018-01-29 ~ 2018-02-04
 
+- Cohen, Maxime C., et al. "The impact of linear optimization on promotion planning." Operations Research 65.2 (2017): 446-468.[[pdf]](http://pages.stern.nyu.edu/~mcohen2/Promo.pdf)
+- Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).[[pdf]](https://arxiv.org/pdf/1312.5602.pdf))
+- Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." Nature 518.7540 (2015): 529.[[pdf]](http://www.davidqiu.com:8888/research/nature14236.pdf)
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
