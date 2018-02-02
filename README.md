@@ -41,7 +41,7 @@ Some papers about OR will be added in the future.
 - Ling, Guang, et al. "Online learning for collaborative filtering." Neural Networks (IJCNN), The 2012 International Joint Conference on. IEEE, 2012.[[pdf]](https://pdfs.semanticscholar.org/3848/5c7b4e991a67cda20c38062626a7637955b9.pdf)
 - Shi, Yue, Martha Larson, and Alan Hanjalic. "List-wise learning to rank with matrix factorization for collaborative filtering." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](https://pdfs.semanticscholar.org/75cc/a03b03dc514f03c102ccfdd53a7c0af625fc.pdf)
 - Wu, Yao, et al. "Collaborative denoising auto-encoders for top-n recommender systems." Proceedings of the Ninth ACM International Conference on Web Search and Data Mining. ACM, 2016.[[pdf]](http://alicezheng.org/papers/wsdm16-cdae.pdf)
-- [[pdf]]()
+- Elmaghraby, Wedad, and Pınar Keskinocak. "Dynamic pricing in the presence of inventory considerations: Research overview, current practices, and future directions." Management science 49.10 (2003): 1287-1309.[[pdf]](https://www.researchgate.net/profile/Pinar_Keskinocak/publication/3228299_Dynamic_pricing_in_the_presence_of_inventory_considerations_Research_overview_current_practices_and_future_directions/links/00b495362934858309000000/Dynamic-pricing-in-the-presence-of-inventory-considerations-Research-overview-current-practices-and-future-directions.pdf)
 - [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
