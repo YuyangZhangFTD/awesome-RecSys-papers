@@ -33,6 +33,19 @@ Gook luck to every rec-sys learner.
 
 Some papers about OR will be added in the future.
 
+## 2018-02-05 ~ 2018-02-11
+
+- `*` Elmaghraby, Wedad, and Pınar Keskinocak. "Dynamic pricing in the presence of inventory considerations: Research overview, current practices, and future directions." Management science 49.10 (2003): 1287-1309.[[pdf]](https://www.researchgate.net/profile/Pinar_Keskinocak/publication/3228299_Dynamic_pricing_in_the_presence_of_inventory_considerations_Research_overview_current_practices_and_future_directions/links/00b495362934858309000000/Dynamic-pricing-in-the-presence-of-inventory-considerations-Research-overview-current-practices-and-future-directions.pdf)
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+- [[pdf]]()
+
+---
+
 ## 2018-01-29 ~ 2018-02-04
 
 - Cohen, Maxime C., et al. "The impact of linear optimization on promotion planning." Operations Research 65.2 (2017): 446-468.[[pdf]](http://pages.stern.nyu.edu/~mcohen2/Promo.pdf)
@@ -42,10 +55,6 @@ Some papers about OR will be added in the future.
 - Shi, Yue, Martha Larson, and Alan Hanjalic. "List-wise learning to rank with matrix factorization for collaborative filtering." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.[[pdf]](https://pdfs.semanticscholar.org/75cc/a03b03dc514f03c102ccfdd53a7c0af625fc.pdf)
 - Wu, Yao, et al. "Collaborative denoising auto-encoders for top-n recommender systems." Proceedings of the Ninth ACM International Conference on Web Search and Data Mining. ACM, 2016.[[pdf]](http://alicezheng.org/papers/wsdm16-cdae.pdf)
 - Elmaghraby, Wedad, and Pınar Keskinocak. "Dynamic pricing in the presence of inventory considerations: Research overview, current practices, and future directions." Management science 49.10 (2003): 1287-1309.[[pdf]](https://www.researchgate.net/profile/Pinar_Keskinocak/publication/3228299_Dynamic_pricing_in_the_presence_of_inventory_considerations_Research_overview_current_practices_and_future_directions/links/00b495362934858309000000/Dynamic-pricing-in-the-presence-of-inventory-considerations-Research-overview-current-practices-and-future-directions.pdf)
-- [[pdf]]()
-- [[pdf]]()
-- [[pdf]]()
-- [[pdf]]()
 
 ---
 
