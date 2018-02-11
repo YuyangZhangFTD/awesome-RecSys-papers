@@ -36,7 +36,7 @@ Some papers about OR will be added in the future.
 ## 2018-02-05 ~ 2018-02-11
 
 - `*` Elmaghraby, Wedad, and Pınar Keskinocak. "Dynamic pricing in the presence of inventory considerations: Research overview, current practices, and future directions." Management science 49.10 (2003): 1287-1309.[[pdf]](https://www.researchgate.net/profile/Pinar_Keskinocak/publication/3228299_Dynamic_pricing_in_the_presence_of_inventory_considerations_Research_overview_current_practices_and_future_directions/links/00b495362934858309000000/Dynamic-pricing-in-the-presence-of-inventory-considerations-Research-overview-current-practices-and-future-directions.pdf)
-- [[pdf]]()
+- Sahinler, Suat, and Dervis Topuz. "Bootstrap and jackknife resampling algorithms for estimation of regression parameters." Journal of Applied Quantitative Methods 2.2 (2007): 188-199.[[pdf]](http://jaqm.ro/issues/volume-2,issue-2/pdfs/jaqm_vol2_issue2.pdf#page=5)
 - [[pdf]]()
 - [[pdf]]()
 - [[pdf]]()
