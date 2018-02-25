@@ -37,7 +37,7 @@ Some papers about OR will be added in the future.
 
 - Nenni, Maria Elena, Luca Giustiniano, and Luca Pirolo. "Demand forecasting in the fashion industry: a review." International Journal of Engineering Business Management 5 (2013): 37.[[pdf]](http://journals.sagepub.com/doi/full/10.5772/56840)
 - Fakhfakh, Rim, Anis Ben Ammar, and Chokri Ben Amar. "Deep Learning-Based Recommendation: Current Issues and Challenges." INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS 8.12 (2017): 59-68.[[pdf]](https://pdfs.semanticscholar.org/95ee/d16871a747d3ee5e372da404b30fcc5f7298.pdf)
-- [[pdf]]()
+- `*`Bitran, Gabriel, and René Caldentey. "An overview of pricing models for revenue management." Manufacturing & Service Operations Management 5.3 (2003): 203-229.[[pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/msom.5.3.203.16031?legid=msom%3B5%2F3%2F203&frame=sidebar&cited-by=yes)
 - [[pdf]]()
 
 ---
