@@ -40,6 +40,7 @@ Some papers about OR will be added in the future.
 - `*`Bitran, Gabriel, and René Caldentey. "An overview of pricing models for revenue management." Manufacturing & Service Operations Management 5.3 (2003): 203-229.[[pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/msom.5.3.203.16031?legid=msom%3B5%2F3%2F203&frame=sidebar&cited-by=yes)
 - Ma, Shaohui, Robert Fildes, and Tao Huang. "Demand forecasting with high dimensional data: The case of SKU retail sales forecasting with intra-and inter-category promotional information." European Journal of Operational Research 249.1 (2016): 245-257.[[pdf]](http://eprints.lancs.ac.uk/78443/4/Ma_Forecasting_with_high_dimensional_data_EJOR_2016_final.pdf)
 - Ni Y, Fan F. A two-stage dynamic sales forecasting model for the fashion retail[J]. Expert Systems with Applications, 2011, 38(3):1529-1536.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0957417410006937)
+- Efron, Bradley, et al. "Least angle regression." The Annals of statistics 32.2 (2004): 407-499.[[pdf]](http://thom.jouve.free.fr/work/thesis/sitecopy_save/Biblio/Read/Efron2002.pdf)
 
 ---
 
