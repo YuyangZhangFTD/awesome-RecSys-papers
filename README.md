@@ -25,7 +25,7 @@ I will record the papers here which I have read, and the I will update the list 
 Some papers can't be downloaded if you don't have access for some digital library, like acm digital library and so on.
 So if you want to read these papers, email me~ [ZhangYuyang4d@163.com](ZhangYuyang4d@163.com)
 
-By the way, I won't classify papers into several categories, and just list their names and download links here. The papers with ``*`` is those that I just look through without too much attention for I'm a too busy now to give my whole attention to read each paper. 
+By the way, I won't classify papers into several categories, and just list their names and download links here. The papers with ``*`` is those that I just look through without too much attention for I'm a too busy now to give my whole attention to read each paper.
 
 Gook luck to every rec-sys learner.
 
@@ -41,6 +41,8 @@ Some papers about OR will be added in the future.
 - Ma, Shaohui, Robert Fildes, and Tao Huang. "Demand forecasting with high dimensional data: The case of SKU retail sales forecasting with intra-and inter-category promotional information." European Journal of Operational Research 249.1 (2016): 245-257.[[pdf]](http://eprints.lancs.ac.uk/78443/4/Ma_Forecasting_with_high_dimensional_data_EJOR_2016_final.pdf)
 - Ni Y, Fan F. A two-stage dynamic sales forecasting model for the fashion retail[J]. Expert Systems with Applications, 2011, 38(3):1529-1536.[[pdf]](http://www.sciencedirect.com/science/article/pii/S0957417410006937)
 - Efron, Bradley, et al. "Least angle regression." The Annals of statistics 32.2 (2004): 407-499.[[pdf]](http://thom.jouve.free.fr/work/thesis/sitecopy_save/Biblio/Read/Efron2002.pdf)
+- `*` Vidaurre, Diego, Concha Bielza, and Pedro Larrañaga. "A survey of L1 regression." International Statistical Review 81.3 (2013): 361-387.[[pdf]](http://cig.fi.upm.es/articles/2013/Vidaurre-2013-IntStatRev.pdf)
+- Tibshirani, Robert. "Regression shrinkage and selection via the lasso: a retrospective." Journal of the Royal Statistical Society: Series B (Statistical Methodology) 73.3 (2011): 273-282.[[pdf]](https://pdfs.semanticscholar.org/6b5e/99c128b9cd7b7fbc817a2843a47ce8a1c35d.pdf)
 
 ---
 
