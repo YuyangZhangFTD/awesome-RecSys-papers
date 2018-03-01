@@ -6,17 +6,17 @@ Good luck to every RecSys-learner.
 
 [Awesome Recommendation System Papers](#jumpawesome)
 
-
 My email is ZhangYuyang4d@163.com.
-If you find any mistakes, 
+If you find any mistakes,
 or you have some suggestions,
-just send a email to me. 
+just send a email to me.
 
 By the way, the RecSys is one of the most important conference in recommendation.
 
 [RecSys](https://recsys.acm.org)
 
 ## My Reading List
+
 I graduated three months ago, and this list has not been updated for three months (from 2017.06.21).
 And now I have become a machine learning engineer in Suning, majoring in recommendation system and other machine learning fields.
 So I decide to continue to update this list in the future. But I will change the format for convenience.
@@ -43,6 +43,8 @@ Some papers about OR will be added in the future.
 - Efron, Bradley, et al. "Least angle regression." The Annals of statistics 32.2 (2004): 407-499.[[pdf]](http://thom.jouve.free.fr/work/thesis/sitecopy_save/Biblio/Read/Efron2002.pdf)
 - `*` Vidaurre, Diego, Concha Bielza, and Pedro Larrañaga. "A survey of L1 regression." International Statistical Review 81.3 (2013): 361-387.[[pdf]](http://cig.fi.upm.es/articles/2013/Vidaurre-2013-IntStatRev.pdf)
 - Tibshirani, Robert. "Regression shrinkage and selection via the lasso: a retrospective." Journal of the Royal Statistical Society: Series B (Statistical Methodology) 73.3 (2011): 273-282.[[pdf]](https://pdfs.semanticscholar.org/6b5e/99c128b9cd7b7fbc817a2843a47ce8a1c35d.pdf)
+- Hesterberg, Tim, et al. "Least angle and ℓ1 penalized regression: A review." Statistics Surveys 2 (2008): 61-93.[[pdf]](https://projecteuclid.org/download/pdfview_1/euclid.ssu/1211317636)
+- `*` Friedman, Jerome, et al. "Pathwise coordinate optimization." The Annals of Applied Statistics 1.2 (2007): 302-332.[[pdf]](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1196438020)
 
 ---
 
@@ -69,8 +71,6 @@ Happy Chinese New Year! :P
 
 ---
 
-
-
 ## 2018-01-22 ~ 2018-01-28
 
 - Clearance Pricing Optimization for a Fast-Fashion Retailer[[pdf]](http://escholarship.org/uc/item/0fm8d8sv.pdf)
@@ -92,7 +92,7 @@ Happy Chinese New Year! :P
 - Sembium, Vivek, et al. "Recommending Product Sizes to Customers." Proceedings of the Eleventh ACM Conference on Recommender Systems. ACM, 2017.[[pdf]](http://dl.acm.org/ft_gateway.cfm?id=3109891&type=pdf)
 - Chou, Szu-Yu, et al. "Addressing Cold Start for Next-song Recommendation." Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016.[[pdf]](http://mac.citi.sinica.edu.tw/~yang/pub/chou16recsys.pdf)
 - `*` Fernández-Tobías, Ignacio, et al. "Accuracy and diversity in cross-domain recommendations for cold-start users with positive-only feedback." Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016.[[pdf]](http://sisinflab.poliba.it/publications/2016/FTCDD16/Accuracy%20and%20Diversity%20in%20Cross-domain%20Recommendations%20for%20Cold-start%20Users%20with%20Positive-only%20Feedback.pdf)
-- MLA	Cheung, Wang Chi, David Simchi-Levi, and He Wang. "Dynamic pricing and demand learning with limited price experimentation." Operations Research 65.6 (2017): 1722-1731.[[pdf]](https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1629)
+- MLA Cheung, Wang Chi, David Simchi-Levi, and He Wang. "Dynamic pricing and demand learning with limited price experimentation." Operations Research 65.6 (2017): 1722-1731.[[pdf]](https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1629)
 - Lim, Daryl, Julian McAuley, and Gert Lanckriet. "Top-n recommendation with missing implicit feedback." Proceedings of the 9th ACM Conference on Recommender Systems. ACM, 2015.[[pdf]](http://eceweb.ucsd.edu/~gert/papers/topNmif.pdf)
 - Balakrishnan, Suhrid, and Sumit Chopra. "Collaborative ranking." Proceedings of the fifth ACM international conference on Web search and data mining. ACM, 2012.[[pdf]](http://web2.research.att.com/export/sites/att_labs/techdocs/TD_100638.pdf)
 - Okura, Shumpei, et al. "Embedding-based news recommendation for millions of users." Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2017.[[pdf]](http://dl.acm.org/authorize?N33473)
@@ -127,8 +127,7 @@ Happy Chinese New Year! :P
 
 ## 2017-12-25 ~ 2017-12-31
 
-- Ayush Singhal, et al. "Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works." arXiv preprint arXiv:1712.07525 (2017).
-[[pdf]](https://arxiv.org/pdf/1712.07525.pdf) 
+- Ayush Singhal, et al. "Use of Deep Learning in Modern Recommendation System: A Summary of Recent Works." arXiv preprint arXiv:1712.07525 (2017).[[pdf]](https://arxiv.org/pdf/1712.07525.pdf) 
 - `*` Luo, Xin, et al. "A nonnegative latent factor model for large-scale sparse matrices in recommender systems via alternating direction method." IEEE transactions on neural networks and learning systems 27.3 (2016): 579-592.[[pdf]](http://or.nsfc.gov.cn/bitstream/00001903-5/332249/1/1000013766335.pdf) 
 - `*` Kumar, Vaibhav, et al. "Deep Neural Architecture for News Recommendation." Working Notes of the 8th International Conference of the CLEF Initiative, Dublin, Ireland. CEUR Workshop Proceedings. 2017.[[pdf]](http://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.89f62e3bfac97ac0.44656570204e657572616c204172636869746563747572652e2e2e202856616962686176204b756d61722c204468727576204b6861747461722c205368617368616e6b2047757074612c204d616e6973682047757074612c205661737564657661205661726d61292e706466.pdf) 
 - Fisher, Marshall, Santiago Gallino, and Jun Li. "Competition-based dynamic pricing in online retailing: A methodology validated with field experiments." Management Science (2017).[[pdf]](https://pdfs.semanticscholar.org/839f/0c732752b8603426abb962690df448d9d4d0.pdf) 
@@ -146,7 +145,6 @@ Happy Chinese New Year! :P
 - `*` Ferreira, Kris Johnson, David Simchi-Levi, and He Wang. "Online network revenue management using Thompson sampling." (2016).[[pdf]](http://scal.business.rutgers.edu/file/Kris_16_031_44151337.pdf) 
 
 ---
-
 
 ## 2017-12-11 ~ 2017-12-17
 
@@ -199,11 +197,12 @@ Happy Chinese New Year! :P
 - Vartak, Manasi, Hugo Larochelle, and Arvind Thiagarajan. "A Meta-Learning Perspective on Cold-Start Recommendations for Items." Advances in Neural Information Processing Systems. 2017. [[pdf]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/7dd3e55d6236efd63f1311f7f484450638278bdc.pdf) 
 
 ---
+
 ## 2017-11-06 ~ 2017-11-12
+
 - Rendle S, Freudenthaler C. Improving pairwise learning for item recommendation from implicit feedback[C]// ACM International Conference on Web Search and Data Mining. ACM, 2014:273-282.[[pdf]](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/ReFr14.pdf)
 - Zhou G, Song C, Zhu X, et al. Deep Interest Network for Click-Through Rate Prediction[J]. 2017.[[pdf]](http://arxiv.org/abs/1706.06978.pdf)
 - `*`  Zhai, Shuangfei, et al. "Deepintent: Learning attentions for online advertising with recurrent neural networks." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.[[pdf]](http://www.kdd.org/kdd2016/papers/files/rfp0289-zhaiA.pdf)
-
 
 ---
 
@@ -252,9 +251,10 @@ Happy Chinese New Year! :P
 
 ---
 
-## <span id="jumpawesome">Awesome Recommmendation System Papers</span>
+## <span id="jumpawesome"> Awesome Recommmendation System Papers</span>
 
-## Recent Papers 
+## Recent Papers
+
 The papers published in recent years are collected here.
 The deep learning are widely used in recommendations system in recent years.
 And I use the same method in my dissertation.
@@ -263,6 +263,7 @@ I also did some research about the ctr prediction,
 which is the main direction of my work in the future.
 
 ### Deep Learning and Recommendations
+
 - Restricted Boltzmann Machines for Collaborative Filtering (2007),R Salakhutdinov, A Mnih, G Hinton.
   [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2007_SalakhutdinovMH07.pdf)
 
@@ -293,9 +294,8 @@ which is the main direction of my work in the future.
 
 - Recurrent Recommender Networks (2017), Chao-Yuan Wu.[[pdf]](http://delivery.acm.org/10.1145/3020000/3018689/p495-wu.pdf?ip=221.226.125.130&id=3018689&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=995126498&CFTOKEN=96329132&__acm__=1508034746_8da751768f4ee19af912968914bbbaa6)
 
-
-
 ### Matrix Factorization
+
 - SVD-based collaborative filtering with privacy (2005), Polat H, Du W. 
   [[pdf]](http://www.cis.syr.edu/~wedu/Research/paper/sac2004.pdf)
 
@@ -311,10 +311,8 @@ which is the main direction of my work in the future.
 - Factorization Meets the Item Embedding- Regularizing Matrix Factorization with Item Co-occurrence (2016), D Liang, J Altosaar, L Charlin, DM Blei.
   [[pdf]](https://pdfs.semanticscholar.org/f14f/c33e0a351dff4f4e02510276604a93d1b9fa.pdf)
 
-
-
-
 ### Click-Through-Rate(CTR) Prediction
+
 - Predicting Clicks Estimating the click-through rate for new ads (2007),M Richardson, E Dominowska.
   [[pdf]](http://research.microsoft.com/en-us/um/people/mattri/papers/www2007/predictingclicks.pdf)
 
@@ -340,15 +338,17 @@ which is the main direction of my work in the future.
   [[pdf]](http://people.csail.mit.edu/romer/papers/TISTRespPredAds.pdf)
 
 ## Recommendations
+
 ### Survey Review
+
 - Toward the next generation of recommender systems：A survey of the state-of-the-art and possiblie extensions (2005), Adomavicius G, Tuzhilin A.
   [[pdf]](http://people.stern.nyu.edu/atuzhili/pdf/TKDE-Paper-as-Printed.pdf)
 
 - (BOOK)Recommender systems: an introduction (2011), Zanker M, Felfernig A, Friedrich G.
   [[pdf]](http://recommenderbook.net/media/szeged.pdf)
 
-
 ### Collaborative Filtering Recommendations
+
 - Recommender system (1997), P Resnick, HR Varian.
   [[pdf]](http://michael.hahsler.net/research/Recommender_SMU2011/EMIS_DSS_2012/Recomm.pdf)
 
@@ -382,21 +382,21 @@ which is the main direction of my work in the future.
 - Factor in the Neighbors- Scalable and Accurate Collaborative Filtering (2010), Y Koren.
   [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.4158&rep=rep1&type=pdf)
 
-
 ### Content-based Recommendations
+
 - Utility-based repair of inconsistent requirements (2009), Felfernig A, Mairitsch M, Mandl M, et al.
   [[pdf]](http://link.springer.com/content/pdf/10.1007/978-3-642-02568-6_17.pdf)
 
 ### Probability Graph Model and Byesian Inference
+
 - Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo (2008),R Salakhutdinov, et al.
   [[pdf]](http://www.cs.utoronto.ca/~amnih/papers/bpmf.pdf)
 
 - Bayesian Personalized Ranking from Implicit Feedback (2009), S Rendle, C Freudenthaler, Z Gantner.
   [[pdf]](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)
 
-
-
 ### Other methods for Recommendations
+
 - Supporting user query relaxation in a recommender system (2004),Mirzadeh N, Ricci F, Bansal M.
   [[pdf]](https://www.researchgate.net/profile/Francesco_Ricci5/publication/221017551_Supporting_User_Query_Relaxation_in_a_Recommender_System/links/0deec524dcde30df0d000000.pdf)
 
@@ -409,10 +409,9 @@ which is the main direction of my work in the future.
 - Tag-aware recommender systems: a state-of-the-art survey (2011), Zhang Z K, Zhou T, Zhang Y C. 
   [[pdf]](http://arxiv.org/pdf/1202.5820.pdf)
 
-
 ### Hybrid Recommendations
+
 - Hybrid recommender systems: Survey and experiments (2002), Burke R.
   [[pdf]](https://www.researchgate.net/profile/Robin_Burke/publication/263377228_Hybrid_Recommender_Systems_Survey_and_Experiments/links/5464ddc20cf2f5eb17ff3149.pdf)
-
 - A hybrid approach to item recommendation in folksonomies (2009), Wetzker R, Umbrath W, Said A.
   [[pdf]](http://www.dai-labor.de/fileadmin/Files/Publikationen/Buchdatei/wetzker_folksonomyrecommendation_esair2009_final.pdf)
