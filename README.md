@@ -33,6 +33,12 @@ Gook luck to every rec-sys learner.
 
 Some papers about OR will be added in the future.
 
+## 2018-03-05 ~ 2018-03-11
+
+- [[pdf]]()
+
+---
+
 ## 2018-02-26 ~ 2018-03-04
 
 - Nenni, Maria Elena, Luca Giustiniano, and Luca Pirolo. "Demand forecasting in the fashion industry: a review." International Journal of Engineering Business Management 5 (2013): 37.[[pdf]](http://journals.sagepub.com/doi/full/10.5772/56840)
