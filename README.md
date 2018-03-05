@@ -35,7 +35,14 @@ Some papers about OR will be added in the future.
 
 ## 2018-03-05 ~ 2018-03-11
 
-- [[pdf]]()
+- Pan, Weike, et al. "Adaptive Bayesian personalized ranking for heterogeneous implicit feedbacks." Knowledge-Based Systems 73 (2015): 173-180.[[pdf]](https://pdfs.semanticscholar.org/b7f3/58b1c0fc9b20c960c01d0d176ef197f3c3ac.pdf)
+- Pan, Weike, and Li Chen. "GBPR: Group Preference Based Bayesian Personalized Ranking for One-Class Collaborative Filtering." IJCAI. Vol. 13. 2013.[[pdf]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/download/6316/7124)
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
 
 ---
 
