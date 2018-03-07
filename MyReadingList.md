@@ -20,10 +20,10 @@ Some papers about OR will be added in the future.
 
 - Pan, Weike, et al. "Adaptive Bayesian personalized ranking for heterogeneous implicit feedbacks." Knowledge-Based Systems 73 (2015): 173-180.[[pdf]](https://pdfs.semanticscholar.org/b7f3/58b1c0fc9b20c960c01d0d176ef197f3c3ac.pdf)
 - Pan, Weike, and Li Chen. "GBPR: Group Preference Based Bayesian Personalized Ranking for One-Class Collaborative Filtering." IJCAI. Vol. 13. 2013.[[pdf]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/download/6316/7124)
-- [[pdf]](1)
-- [[pdf]](1)
-- [[pdf]](1)
-- [[pdf]](1)
+- Lerche, Lukas, and Dietmar Jannach. "Using graded implicit feedback for bayesian personalized ranking." Proceedings of the 8th ACM Conference on Recommender systems. ACM, 2014.[[pdf]](http://ls13-www.cs.tu-dortmund.de/homepage/publications/jannach/Conference_RECSYS14_Bpr.pdf)
+- `*` Besbes, Omar, Robert Phillips, and Assaf Zeevi. "Testing the validity of a demand model: An operations perspective." Manufacturing & Service Operations Management 12.1 (2010): 162-183.[[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1163&context=oid_papers)
+- Ali, Özden Gür, et al. "SKU demand forecasting in the presence of promotions." Expert Systems with Applications 36.10 (2009): 12340-12348.[[pdf]](http://www.academia.edu/download/43514967/SKU_demand_forecasting_in_the_presence_o20160308-11493-1oyjps8.pdf)
+- Taylor, Sean J., and Benjamin Letham. "Forecasting at scale." The American Statistician just-accepted (2017).[[pdf]](https://peerj.com/preprints/3190.pdf)
 - [[pdf]](1)
 - [[pdf]](1)
 
