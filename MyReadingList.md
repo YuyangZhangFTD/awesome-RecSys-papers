@@ -16,6 +16,12 @@ Gook luck to every rec-sys learner.
 
 Some papers about OR will be added in the future.
 
+## 2018-3-12 ~ 2018-03-18
+
+- [[pdf]](1)
+- [[pdf]](1)
+---
+
 ## 2018-03-05 ~ 2018-03-11
 
 - Pan, Weike, et al. "Adaptive Bayesian personalized ranking for heterogeneous implicit feedbacks." Knowledge-Based Systems 73 (2015): 173-180.[[pdf]](https://pdfs.semanticscholar.org/b7f3/58b1c0fc9b20c960c01d0d176ef197f3c3ac.pdf)
@@ -24,8 +30,6 @@ Some papers about OR will be added in the future.
 - `*` Besbes, Omar, Robert Phillips, and Assaf Zeevi. "Testing the validity of a demand model: An operations perspective." Manufacturing & Service Operations Management 12.1 (2010): 162-183.[[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1163&context=oid_papers)
 - Ali, Özden Gür, et al. "SKU demand forecasting in the presence of promotions." Expert Systems with Applications 36.10 (2009): 12340-12348.[[pdf]](http://www.academia.edu/download/43514967/SKU_demand_forecasting_in_the_presence_o20160308-11493-1oyjps8.pdf)
 - Taylor, Sean J., and Benjamin Letham. "Forecasting at scale." The American Statistician just-accepted (2017).[[pdf]](https://peerj.com/preprints/3190.pdf)
-- [[pdf]](1)
-- [[pdf]](1)
 
 ---
 
