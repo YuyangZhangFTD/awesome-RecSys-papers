@@ -16,15 +16,20 @@ Gook luck to every rec-sys learner.
 
 Some papers about OR will be added in the future.
 
+## 2018-03-19 ~ 2018-03-25
+
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
+
+---
+
 ## 2018-3-12 ~ 2018-03-18
 
 - Fleischmann, Moritz, Joseph Hall, and David Pyke. "Smart pricing: linking pricing decisions with operational insights." (2003).[[pdf]](https://repub.eur.nl/pub/1114/ERS%202004%20001%20LIS.pdf)
 - Sung, Nahk Hyun, and Jae Kyu Lee. "Knowledge assisted dynamic pricing for large-scale retailers." Decision Support Systems 28.4 (2000): 347-363.[[pdf]](https://www.sciencedirect.com/science/article/pii/S0167923699000950)
 - Ding, Jingtao, et al. "An Improved Sampler for Bayesian Personalized Ranking by Leveraging View Data." (2018).[[pdf]](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-improvedBPR.pdf)
-- [[pdf]](1)
-- [[pdf]](1)
-- [[pdf]](1)
-- [[pdf]](1)
 
 ---
 
