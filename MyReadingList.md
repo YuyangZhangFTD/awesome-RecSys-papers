@@ -16,12 +16,21 @@ Gook luck to every rec-sys learner.
 
 Some papers about OR will be added in the future.
 
+## 2018-03-26 ~ 2018-04-01
+
+- Fithian, William, and Trevor Hastie. "Local case-control sampling: Efficient subsampling in imbalanced data sets." Annals of statistics 42.5 (2014): 1693.[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.766.3858&rep=rep1&type=pdf)
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
+- [[pdf]](1)
+
+---
+
 ## 2018-03-19 ~ 2018-03-25
 
-- [[pdf]](1)
-- [[pdf]](1)
-- [[pdf]](1)
-- [[pdf]](1)
+- The Benders decomposition algorithm: A literature review[[pdf]](http://www.cirrelt.ca/DocumentsTravail/CIRRELT-2016-30.pdf)
 
 ---
 
