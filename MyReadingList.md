@@ -16,21 +16,25 @@ Gook luck to every rec-sys learner.
 
 Some papers about OR will be added in the future.
 
-## 2018-03-26 ~ 2018-04-01
+## 2018-04-02 ~ 2018-04-08
 
-- Fithian, William, and Trevor Hastie. "Local case-control sampling: Efficient subsampling in imbalanced data sets." Annals of statistics 42.5 (2014): 1693.[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.766.3858&rep=rep1&type=pdf)
-- [[pdf]](1)
-- [[pdf]](1)
-- [[pdf]](1)
-- [[pdf]](1)
+- Van den Akker, J. M., Cor AJ Hurkens, and Martin WP Savelsbergh. "Time-indexed formulations for machine scheduling problems: Column generation." INFORMS Journal on Computing 12.2 (2000): 111-124.[[pdf]](http://www.academia.edu/download/41997602/Time-Indexed_Formulations_for_Machine_Sc20160203-10831-1h46yjn.pdf)
+- Saharidis, Georgios KD, and Marianthi G. Ierapetritou. "Improving Benders decomposition using maximum feasible subsystem (MFS) cut generation strategy." Computers & chemical engineering 34.8 (2010): 1237-1245.[[pdf]](https://pdfs.semanticscholar.org/fa55/e33764da7fb344eedfe474175a9d4fbda4d9.pdf)
+- Fischetti, Matteo, Ivana Ljubić, and Markus Sinnl. "Benders decomposition without separability: A computational study for capacitated facility location problems." European Journal of Operational Research 253.3 (2016): 557-569.[[pdf]](https://pdfs.semanticscholar.org/c6b9/760a4bdbf0c4a7cd19ec6046986e60355aed.pdf)
 - [[pdf]](1)
 - [[pdf]](1)
 
 ---
 
+## 2018-03-26 ~ 2018-04-01
+
+- Fithian, William, and Trevor Hastie. "Local case-control sampling: Efficient subsampling in imbalanced data sets." Annals of statistics 42.5 (2014): 1693.[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.766.3858&rep=rep1&type=pdf)
+
+---
+
 ## 2018-03-19 ~ 2018-03-25
 
-- The Benders decomposition algorithm: A literature review[[pdf]](http://www.cirrelt.ca/DocumentsTravail/CIRRELT-2016-30.pdf)
+- Rahmaniani, Ragheb, et al. "The Benders decomposition algorithm: A literature review." European Journal of Operational Research 259.3 (2017): 801-817.[[pdf]](http://www.cirrelt.ca/DocumentsTravail/CIRRELT-2016-30.pdf)
 
 ---
 
