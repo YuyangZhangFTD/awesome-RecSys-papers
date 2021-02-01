@@ -138,7 +138,7 @@ By the way, the RecSys is one of the most important conference in recommendation
 - Utility-based repair of inconsistent requirements (2009), Felfernig A, Mairitsch M, Mandl M, et al.
   [[pdf]](http://link.springer.com/content/pdf/10.1007/978-3-642-02568-6_17.pdf)
 
-## Probability Graph Model and Byesian Inference
+## Probability Graph Model and Bayesian Inference
 
 - Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo (2008),R Salakhutdinov, et al.
   [[pdf]](http://www.cs.utoronto.ca/~amnih/papers/bpmf.pdf)
